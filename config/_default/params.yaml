@@ -15,17 +15,16 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Event
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Quantum Thermodynamics Down Under'
+    description: 'An upcoming physics conference focused on quantum thermodynamics and bringing Australian and international researchers in this field together.'
+    twitter: 'qtdu2023'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
-    baidu: ''
+    google: '1sXgW2NEYw8MfN1lmgW4C8N3WHkNRoxEuX9Se4GWxLQ'
 
 # Site header
 
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2023 Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -108,9 +107,3 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa
