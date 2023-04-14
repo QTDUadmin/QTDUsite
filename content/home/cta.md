@@ -3,7 +3,7 @@ widget: blank
 widget_id: organisers
 headless: true
 weight: 50
-title: null
+title: Conference Organisers
 subtitle: null
 design:
   columns: "1"
