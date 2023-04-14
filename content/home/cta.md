@@ -2,7 +2,7 @@
 widget: blank
 widget_id: organisers
 headless: true
-weight: 40
+weight: 50
 title: null
 subtitle: null
 design:
