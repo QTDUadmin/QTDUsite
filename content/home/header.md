@@ -16,7 +16,6 @@ design:
 ---
 # {{<hl>}}_Quantum Thermodynamics_{{</hl>}}
 {style="color: black"}
-<br>
 
 # {{<hl>}}_Down Under 2023_{{</hl>}}
 {style="color: black"}
