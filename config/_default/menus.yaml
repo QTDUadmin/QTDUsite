@@ -5,20 +5,20 @@
 
 main:
   - name: Intro
-    url: #intro
+    url: # intro
     weight: 20
   - name: Dates
-    url: #dates
+    url: # dates
     weight: 30
   - name: Programme
     url: programme
     weight: 40
   - name: Organisers
-    url: #organisers
+    url: content/people
     weight: 50
   - name: Location
-    url: #location
+    url: # location
     weight: 60
   - name: Contact
-    url: #contact
+    url: # contact
     weight: 70
