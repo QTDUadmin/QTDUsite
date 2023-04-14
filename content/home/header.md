@@ -14,8 +14,10 @@ design:
     text_color_light: true
     image: background.png
 ---
-# {{<hl>}}_Quantum Thermodynamics<br>
-# Down Under 2023_{{</hl>}}
+# {{<hl>}}_Quantum Thermodynamics_{{</hl>}}
+{style="color: black"}
+<br>
+# {{<hl>}}_Down Under 2023_{{</hl>}}
 {style="color: black"}
 
 
