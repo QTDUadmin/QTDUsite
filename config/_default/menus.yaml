@@ -13,11 +13,11 @@ main:
   - name: Programme
     url: '#programme'
     weight: 40
-  - name: Organisers
-    url: '#people'
-    weight: 50
   - name: Location
     url: '#location'
+    weight: 50
+  - name: Organisers
+    url: '#people'
     weight: 60
   - name: Contact
     url: '#contact'
