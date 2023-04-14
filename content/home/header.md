@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: ""
-hero_media: australia_road_sign_smallw5-29.svg.png
+hero_media: 482px-PSM_V12_D277_Trevitchick_locomotive_1804.jpg
 widget_id: header
 design:
   columns: "1"
