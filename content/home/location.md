@@ -4,7 +4,7 @@ widget_id: location
 weight: 60
 title: Location & Directions
 design:
-  columns: "2"
+  columns: "1"
 ---
 The conference will be held at the University of Queensland's Alumni centre in the heart of Brisbane CBD:
 
