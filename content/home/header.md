@@ -15,7 +15,7 @@ design:
     image: background.png
 ---
 # _Quantum Thermodynamics_
-{style="color: black, background-color:#F7B500"}
+{style="color: #FFD700"}
 
 # <mark>_Down Under 2023_</mark>
 {style="color: black"}
