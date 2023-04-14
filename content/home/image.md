@@ -5,7 +5,7 @@ widget: hero
 widget_id: header
 headless: true
 weight: 10
-title: null
+title: Quantum Thermodynamics Down Under 2023
 subtitle: null
 active: true
 design:
