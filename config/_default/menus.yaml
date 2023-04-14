@@ -14,7 +14,7 @@ main:
     url: '#programme'
     weight: 40
   - name: Organisers
-    url: QTDUsite/content/people/people
+    url: 'content/people/people'
     weight: 50
   - name: Location
     url: '#location'
