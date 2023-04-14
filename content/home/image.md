@@ -14,8 +14,8 @@ design:
     image: icon.png
     image_darken: 0
     image_parallax: false
-    image_position: top
-    image_size: 100%
+    image_position: center
+    image_size: 50%
     text_color_light: true
     color: "#000000"
   spacing:
