@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 0
+weight: 90
 title: |
   Wowchemy  
   Research Group
