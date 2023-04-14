@@ -14,10 +14,10 @@ design:
     text_color_light: true
     image: background.png
 ---
-# {{<mark>}}_Quantum Thermodynamics_{{</mark>}}
+# <mark>_Quantum Thermodynamics_</mark>
 {style="color: black"}
 
-# {{<mark>}}_Down Under 2023_{{</mark>}}
+# <mark>_Down Under 2023_</mark>
 {style="color: black"}
 
 
