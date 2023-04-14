@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: blank
 widget_id: location
 weight: 60
 title: Location & Directions
