@@ -12,6 +12,6 @@ design:
   background:
     color: "#000000"
     text_color_light: true
-    image: ""
+    image: qtdubanner.png
 ---
-![](qtdubanner.png)
+![]()
