@@ -1,10 +1,3 @@
-features:
-  map:
-    provider: 'google'
-    api_key: ''
-    zoom: 15
-
----
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: contact
