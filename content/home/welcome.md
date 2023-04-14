@@ -3,7 +3,6 @@ widget: blank
 headless: true
 weight: 10
 title: ""
-hero_media: welcome.jpg
 widget_id: introduction
 design:
   columns: "1"
