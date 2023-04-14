@@ -7,8 +7,11 @@ hero_media: icon.jpg
 widget_id: header
 design:
   columns: "1"
-  css_style: 
-  css_class: 
+  css_style: null
+  css_class: null
   background:
-    image: qtdubanner.png
+    color: "#000000"
+    text_color_light: true
+    image: background.png
 ---
+![](title.svg)
