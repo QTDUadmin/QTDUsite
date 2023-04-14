@@ -1,7 +1,7 @@
 ---
 advanced:
   css_class: fullscreen
-widget: blank
+widget: hero
 widget_id: header
 headless: true
 weight: 10
@@ -11,12 +11,13 @@ active: true
 design:
   columns: "1"
   background:
-    image: qtdubanner.png
+    image: icon.png
     image_darken: 0
     image_parallax: false
     image_position: top
     image_size: 100%
     text_color_light: true
+    color: "#000000"
   spacing:
     padding:
       - "0"
