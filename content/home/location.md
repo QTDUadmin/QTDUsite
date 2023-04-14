@@ -7,6 +7,7 @@ design:
   columns: "2"
   background:
     image: uq-308-queen-st-day-20032-1280x1280.jpeg
+    text_color_light: true
 ---
 The conference will be held at the University of Queensland's new venue in the heart of Brisbane CBD: 308 Queen Street, Brisbane, QLD, Australia
 
