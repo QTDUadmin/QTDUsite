@@ -1,9 +1,9 @@
 ---
 widget: blank
-headless: true
-weight: 10
-title: ""
 widget_id: introduction
+headless: true
+weight: 20
+title: ""
 design:
   columns: "1"
   css_style: null
