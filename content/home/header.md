@@ -14,12 +14,12 @@ design:
     text_color_light: false
     image: background.png
 ---
-# <mark>_Quantum Thermodynamics_</mark>
+# {{<hl>}}_Quantum Thermodynamics_{{</hl>}}
 {style="color: black"}
 
 # <mark>_Down Under 2023_</mark>
 {style="color: black"}
-
+<br>
 
 ## 30th October - 2nd November 2023
 {style="color: white"}
