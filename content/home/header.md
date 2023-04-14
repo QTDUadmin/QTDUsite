@@ -14,13 +14,15 @@ design:
     text_color_light: false
     image: background.png
 ---
-# _Quantum Thermodynamics_
-{style="color: #FFD700"}
+# <mark>_Quantum Thermodynamics_</mark>
+{style="color: black"}
 
 # <mark>_Down Under 2023_</mark>
 {style="color: black"}
 
 
-## 30th October - 2nd November 2023<br>
+## 30th October - 2nd November 2023
+{style="color: white"}
+
 ## Brisbane, Queensland, Australia
 {style="color: white"}
