@@ -18,7 +18,7 @@ content:
   user_groups:
     - Organising Committee
 design:
-  show_interests: false
+  show_organizations: true
   show_role: true
   show_social: true
 ---
