@@ -1,3 +1,9 @@
+---
+widget: contact
+widget_id: location
+weight: 60
+title: Location & Directions
+---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: contact
