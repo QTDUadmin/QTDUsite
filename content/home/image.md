@@ -1,30 +1,21 @@
----
-advanced:
-  css_class: fullscreen
-widget: hero
-widget_id: header
-headless: true
-weight: 10
-title: Quantum Thermodynamics Down Under 2023
-subtitle: null
-active: true
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+title: |
+  Quantum 
+  Thermodynamics
+  Down Under 2023
+hero_media: icon.jpg
 design:
-  columns: "2"
-  background:
-    image: icon.png
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: 50%
-    text_color_light: true
-    color: "#000000"
-  spacing:
-    padding:
-      - "0"
-      - "0"
-      - "0"
-      - "0"
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
 ---
+
+<br>
+
 ## 30th October - 2nd November 2023
 
 ## Brisbane, Queensland, Australia
