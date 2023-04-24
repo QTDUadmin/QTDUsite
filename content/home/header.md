@@ -4,11 +4,10 @@ headless: true
 weight: 10
 title: ""
 hero_media: Australia_road_sign_smallW5-29.svg.png
-widget_id: header
 design:
   columns: "1"
-  css_style: null
-  css_class: null
+  css_style: 
+  css_class: 
   background:
     color: "#000000"
     text_color_light: false
