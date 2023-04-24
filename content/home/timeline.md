@@ -1,13 +1,13 @@
 ---
 title: Important Dates
-type: landing
+type: widget_page
 widget: blank
 widget_id: dates
 headless: true
 weight: 20
 
 sections:
-  - block: experience
+  - block: Important Dates
     content:
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -21,14 +21,12 @@ sections:
         - title: Abstract Submission Opens
           company: -----
           date_start: '2023-05-07'
-          date_end: ''
           
         - title: Abstact Submission Closes
           company: -----
           date_start: '2023-07-30'
-          date_end: ''
           
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
 ---
