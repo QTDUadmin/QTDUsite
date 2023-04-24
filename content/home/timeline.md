@@ -1,5 +1,5 @@
 ---
-title: none
+title: Important Dates
 type: landing
 widget: blank
 widget_id: dates
@@ -9,7 +9,6 @@ weight: 20
 sections:
   - block: experience
     content:
-      title: Important Dates
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: 01 Jan 2006
