@@ -7,8 +7,6 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
 hero_media: australia_road_sign_smallw5-29.svg.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,8 +14,20 @@ design:
   # Add custom styles
   css_style:
   css_class:
----
 
+ # background:
+   # color: "#000000"
+   # text_color_light: false
+   # image: background.png
+
+---
+<br>
+# <mark>_Quantum Thermodynamics_</mark>
+{style="color: black"}
+
+# <mark>_Down Under 2023_</mark>
+{style="color: black"}
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+## 30th October - 2nd November 2023
+{style="color: white"}
