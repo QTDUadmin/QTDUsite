@@ -11,16 +11,14 @@ design:
   css_class: null
   background:
     color: "#000000"
-    text_color_light: true
+    text_color_light: false
     image: background.png
 ---
 # <mark>*Quantum Thermodynamics</mark>*
-
+<br>
 # *<mark>Down Under 2023*</mark>
-
-# {style="color: black"}
+{style="color: black"}
 <br>
 
 ## 30th October - 2nd November 2023
-
-## {style="color: white"}
+{style="color: white"}
