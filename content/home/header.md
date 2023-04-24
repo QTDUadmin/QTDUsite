@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Wowchemy  
   Research Group
-hero_media: Australia_road_sign_smallW5-29.svg.png
+hero_media: australia_road_sign_smallw5-29.svg.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
