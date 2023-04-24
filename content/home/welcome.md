@@ -20,4 +20,4 @@ We invite you to attend a 4-day conference on Quantum Thermodynamics covering fo
 3.	Connections between quantum thermodynamics and other fields, such as quantum information and quantum biology.
 4.	How can quantum thermodynamics be incorporated into outreach events?
 
-QTDU will provide the opportunity to share your research with the wider Australian quantum thermodynamics community, and will facilitate new collaborations through multiple “innovation” sessions. We hope that QTDU will provide the foundation for a quantum thermodynamics community in Australia.
+QTDU will be an opportunity for all of us to share our research and foster collaborations with fellow Australian researchers in quantum thermodynamics. We hope that QTDU will provide the foundation for a cohesive quantum thermodynamics community in Australia.
