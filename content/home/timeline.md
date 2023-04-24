@@ -1,6 +1,10 @@
 ---
-title: My page
+title: none
 type: landing
+widget: blank
+widget_id: dates
+headless: true
+weight: 20
 
 sections:
   - block: experience
