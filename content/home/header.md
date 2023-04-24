@@ -15,10 +15,10 @@ design:
   css_style:
   css_class:
 
- # background:
-   # color: "#000000"
-   # text_color_light: false
-   # image: background.png
+  background:
+    color: "#000000"
+    text_color_light: false
+    image: background.png
 
 ---
 <br>
