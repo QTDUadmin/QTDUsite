@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     color: "#000000"
-    text_color_light: false
+    text_color_light: true
     image: background.png
 ---
 # <mark>*Quantum Thermodynamics</mark>*
