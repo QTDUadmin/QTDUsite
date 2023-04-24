@@ -8,7 +8,7 @@ main:
     url: '#intro'
     weight: 20
   - name: Dates
-    url: '#timeline'
+    url: '#dates'
     weight: 30
   - name: Programme
     url: '#programme'
