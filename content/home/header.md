@@ -14,6 +14,7 @@ design:
     text_color_light: false
     image: background.png
 ---
+<br>
 # <mark>*Quantum Thermodynamics</mark>*
 
 # <mark>*Down Under 2023*</mark>
