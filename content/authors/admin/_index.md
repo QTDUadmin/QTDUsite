@@ -1,20 +1,15 @@
 ---
-# Display name
 title: Carolyn Wood
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-# role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+social:
+  - display:
+      header: false
+    link: https://smp.uq.edu.au/profile/2548/carolyn-wood
+    icon_pack: far
+    icon: id-card
 organizations:
   - name: The University of Queensland
-    url: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    url: ""
+superuser: true
 user_groups:
   - Organising Committee
 ---
