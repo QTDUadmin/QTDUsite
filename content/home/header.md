@@ -23,4 +23,6 @@ design:
 <br>
 
 ## 30th October - 2nd November 2023
+
+## Brisbane, Queensland, Australia
 {style="color: white"}
