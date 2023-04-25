@@ -16,4 +16,4 @@ design:
 * Registration Opens: 10th Jul 2023
 * Registration Closes: 29th Sep 2023
 * Conference Starts: 30th Oct 2023
-* Conference Ends: 2nd Nov 202
+* Conference Ends: 2nd Nov 2023
