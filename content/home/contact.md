@@ -2,7 +2,7 @@
 widget: contact
 widget_id: contact
 weight: 90
-title: ""
+title: Contact
 subtitle: null
 content:
   email: QTDUadmin@protonmail.com
