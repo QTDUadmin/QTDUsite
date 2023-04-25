@@ -12,4 +12,4 @@ design:
   columns: "1"
 ---
 |# Contact   | # Sponsors   |
-|:envelope: <a href="mailto:QTDUadmin@protonmail.com">QTDUadmin@protonmail.com</a> |QTDU2023 is kindly funded by the School of Mathematics and Physics at the University of Queensland. |
+|:envelope: <a href="mailto:QTDUadmin@protonmail.com">QTDUadmin@protonmail.com</a> |QTDU2023 is kindly funded by the <a href="https://smp.uq.edu.au>School of Mathematics and Physics</a> at the University of Queensland. |
