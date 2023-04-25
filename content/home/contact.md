@@ -9,7 +9,7 @@ content:
   autolink: true
 headless: true
 design:
-  columns: "2"
+  columns: "1"
 ---
 ::: {.row}
   ::: {.col-md-4}
