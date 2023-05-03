@@ -12,7 +12,7 @@ design:
   background:
     color: "#000000"
     text_color_light: false
-    image: background.png
+    image: ""
 ---
 <br>
 
