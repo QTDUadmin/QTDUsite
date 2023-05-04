@@ -6,7 +6,7 @@ title: Location & Directions
 design:
   columns: "2"
   background:
-    image: australia_road_sign_smallw5-29.svg.png
+    image: ""
     text_color_light: true
     color: "#000000"
 ---
