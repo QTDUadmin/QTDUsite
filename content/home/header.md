@@ -1,17 +1,21 @@
 ---
-widget: hero
-widget_id: header
-headless: true
-weight: 10
-active: false
+
+widget: hero 
+headless: true 
+weight: 10 
+title: ""
+hero_media: australia_road_sign_smallw5-29.svg.png
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
-    color: "#000000"
-    image: background.png
+  columns: '1'
+  # background:
+  # text_color_light: false
+  # image_darken: 0
+  # color: "#000000"
+  # image: background.png
+  css_style:
+  css_class:
 ---
+
 <br>
 
 # <mark>*Quantum Thermodynamics</mark>*
