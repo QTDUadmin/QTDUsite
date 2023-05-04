@@ -10,7 +10,6 @@ design:
   css_style: null
   css_class: null
   background:
-    color: "#000000"
     image: background.png
     image_darken: 1
 ---
