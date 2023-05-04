@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     color: "#000000"
-    image: static/images/background.png
+    image: images/background.png
 ---
 
 <br>
