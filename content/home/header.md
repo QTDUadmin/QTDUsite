@@ -11,7 +11,6 @@ design:
   css_class: null
   background:
     image: background.png
-    image_darken: 1
 ---
 
 <br>
