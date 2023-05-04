@@ -12,6 +12,7 @@ design:
   background:
     color: "#000000"
     image: background.png
+    image_darken: 1
 ---
 
 <br>
