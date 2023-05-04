@@ -12,6 +12,7 @@ design:
   columns: "1"
   background:
     color: "#000000"
+    text_color_light: true
 ---
 # Contact
 
