@@ -10,6 +10,8 @@ content:
 headless: true
 design:
   columns: "1"
+  background:
+    color: "#000000"
 ---
 # Contact
 
