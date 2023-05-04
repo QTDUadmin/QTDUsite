@@ -7,11 +7,6 @@ title: ""
 hero_media: australia_road_sign_smallw5-29.svg.png
 design:
   columns: '1'
-  background:
-  text_color_light: false
-  image_darken: 0
-  color: "#000000"
-  image: background.png
   css_style:
   css_class:
 ---
