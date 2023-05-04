@@ -11,7 +11,7 @@ design:
   css_class: null
   background:
     color: "#000000"
-    image: background.png
+    image: assets/media/background.png
 ---
 
 <br>
