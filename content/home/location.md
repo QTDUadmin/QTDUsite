@@ -6,7 +6,7 @@ title: Location & Directions
 design:
   columns: "2"
   background:
-    image: UQ 308 Queen St Day 20032-1280x1280.jpeg
+    image: australia_road_sign_smallw5-29.svg.png
     text_color_light: true
     color: "#000000"
 ---
