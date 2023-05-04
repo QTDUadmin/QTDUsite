@@ -5,7 +5,7 @@ headless: true
 weight: 50
 title: Location & Directions
 subtitle: 308 Queen Street, Brisbane, QLD, Australia
-active: false
+active: true
 design:
   columns: "2"
   background:
