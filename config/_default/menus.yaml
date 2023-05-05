@@ -14,7 +14,7 @@ main:
     url: '#programme'
     weight: 40
   - name: Location
-    url: 'post/location-directions/index.md'
+    url: 'post/location-directions'
     weight: 50
   - name: Organisers
     url: '#people'
