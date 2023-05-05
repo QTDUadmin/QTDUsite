@@ -13,7 +13,7 @@ The venue is within walking distance of Central train station, Riverside ferry t
 
 ## Directions
 
-From Airport to city centre: Brisbane's international and domestic airports are directly connected to the city centre by a train line. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the station closest to the conference venue.
+<b>From Airport to city centre:</b> Brisbane's international and domestic airports are directly connected to the city centre by a train line. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the station closest to the conference venue.
 
 ## Public Transport
 
@@ -22,6 +22,7 @@ For infomation about Brisbane's public transport networks, visit the [Translink 
 ## Climate
 
 Early November is the edge of summer in Brisbane. Temperatures range around 26-30 °C during the day, but can go further into the low 30s. Overnight temperatures tend to be around 18 °C. As we are close to the tropics, it can be quite humid and there may be storms. 
+
 As the sun is a deadly laser, we recommend keeping an eye on the [UV index](http://www.bom.gov.au/uv/) while you're here, and using sunscreen and appropriate clothing.
   
 ## Things to See and Do
