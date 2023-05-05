@@ -7,7 +7,7 @@ title: ""
 hero_media: australia_road_sign_smallw5-29.svg.png
 widget_id: header
 
-[design.background]
+design.background
   image: "blackgrey.png"
   
 ---
