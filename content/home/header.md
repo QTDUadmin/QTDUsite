@@ -10,7 +10,9 @@ design:
   css_style: null
   css_class: null
   background:
-    image: background.png
+    image: ""
+    gradient_start: rgba(0, 0, 0, 0.6)
+    gradient_end: "#000000"
 ---
 
 <br>
