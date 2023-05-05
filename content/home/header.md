@@ -24,6 +24,5 @@ design:
 
 ## 7th - 10th November 2023
 {style="color: white"}
-
 ## Brisbane, Queensland, Australia
 {style="color: white"}
