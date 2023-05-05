@@ -1,17 +1,15 @@
 ---
 widget: hero
-headless: true
+headless: false
+active: true
 weight: 10
 title: ""
 hero_media: australia_road_sign_smallw5-29.svg.png
 widget_id: header
-design:
-  columns: "1"
-  css_style: null
-  css_class: null
-  background:
-    image: ""
-    color: "#000000"
+
+[design.background]
+  image: "blackgrey.png"
+  
 ---
 
 <br>
