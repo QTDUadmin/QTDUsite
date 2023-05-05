@@ -27,19 +27,21 @@ For infomation about Brisbane's public transport networks, visit the [Translink 
 
 Note that services are less frequent on weekends, particularly Sundays.
   
-## Climate
+### Climate
 
 Early November is the edge of summer in Brisbane. Temperatures range around 26-30 °C during the day, but can go further into the low 30s. Overnight temperatures tend to be around 18 °C. As we are close to the tropics, it can be quite humid and there may be storms. 
 
 As the sun is a deadly laser, we recommend keeping an eye on the [UV index](http://www.bom.gov.au/uv/) while you're here, and using sunscreen and appropriate clothing, particularly in the middle of the day.
   
-## Things to See and Do
+### Things to See and Do
 
 From the centre of the city, it is a quick walk (or ferry) across the river to the cultural precinct of Southbank, which includes museums and art galleries, restaurants, and a public artificial beach. The next suburb over, West End, also has a variety of restaurants and cafes.
 
 For natural beaches, one can travel north to the Sunshine Coast, or south to the Gold Coast, or east to Stradbroke Island (however note these are definitely day trips). 
 
 Mt Coot-tha overlooks the city, and can be reached by bus. The Brisbane Planetarium and Mt Coot-tha botanic gardens are also nestled into the side of the mountain.
+
+### Visiting the University of Queensland
 
 If you'd like to visit the University of Queensland campus, and the School of Mathematics and Physics, we are located in the suburb of St Lucia, about half an hour by bus from the city centre (or slightly long by ferry).
 
