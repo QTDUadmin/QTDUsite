@@ -7,6 +7,7 @@ profile: false
 comments: false
 header:
   image: "uq-308-queen-st-day-20032.jpg"
+ 
 ---
 The conference will be held in Room 1M16 at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre.
 
