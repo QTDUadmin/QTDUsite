@@ -13,11 +13,19 @@ The venue is within walking distance of Central train station, Riverside ferry t
 
 ## Directions
 
-<b>From Airport to city centre:</b> Brisbane's international and domestic airports are directly connected to the city centre by a train line. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the station closest to the conference venue.
+<b>From Brisbane airport to city centre:</b> Brisbane's international and domestic airports are directly connected to the city centre by a train line. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the train station closest to the conference venue.
+
+Note: AirTrain services will not be available for very early and very late travel. Please check the [Translink website](https://translink.com.au/) and consider this when choosing flights.
+
+<b>From Gold Coast airport to city centre:</b> Trains run from the Gold Coast to Brisbane city, however you will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane.
+
+Note: This journey takes about 2 hours.
 
 ## Public Transport
 
 For infomation about Brisbane's public transport networks, visit the [Translink website](https://translink.com.au/). If you are planning to do a bit of traveling on public transport while you're here, we recommend purchasing a GoCard.
+
+Note that services are less frequent on weekends, particularly Sundays.
   
 ## Climate
 
