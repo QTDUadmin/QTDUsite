@@ -11,15 +11,10 @@ design:
 ---
 Welcome to the inaugural Quantum Thermodynamics Down Under (QTDU) conference!
 
-How do notions of heat and irreversibility emerge from unitary microscopic dynamics? Can distinct quantum features such as entanglement or coherence improve heat engine operation? Can a fundamental understanding of thermodynamics at the quantum scale inspire new technologies, or help improve existing technologies? These are all important questions in the emerging field of Quantum Thermodynamics.
+QTDU2023 will be a 4-day in-person conference situated in Brisbane, Australia, and an opportunity for all of us to share our research and foster collaborations with fellow researchers in quantum thermodynamics.
 
-We invite you to attend a 4-day in-person conference covering four themes:
+We are delighted to welcome Professor Janet Anders from the University of Exeter to sunny Queensland as one of our invited speakers. We will be announcing more speakers as they are confirmed.
 
-1. Fundamental questions in quantum thermodynamics.
-2. Benefit and applications of quantum thermal machines.
-3. Connections between quantum thermodynamics and other fields, such as quantum information and quantum biology.
-4. How can quantum thermodynamics be incorporated into outreach events?
+Our hope is that QTDU will provide the foundation for a cohesive quantum thermodynamics community in Australia, and foster connections between researchers within our region of the globe. Please visit our [About page]({{<"about">}}) for more information.
 
-QTDU will be an opportunity for all of us to share our research and foster collaborations with fellow researchers in quantum thermodynamics. We hope that QTDU will provide the foundation for a cohesive quantum thermodynamics community in Australia.
-
-We will be accepting abstracts very shortly, so watch this space.
+Abstract submissions are [open here]({{<"abstract-guidelines">}}).
