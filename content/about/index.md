@@ -1,5 +1,10 @@
 ---
+widget: hero
+headless: false
+active: true
+weight: 10
 title: About the Conference
+hero_media: australia_road_sign_smallw5-29.svg.png
 date: 2023-05-05T01:33:47.466Z
 reading_time: false
 share: false
