@@ -1,0 +1,23 @@
+---
+title: About the Conference
+date: 2023-05-05T01:33:47.466Z
+reading_time: false
+share: false
+profile: false
+comments: false
+ 
+---
+How do notions of heat and irreversibility emerge from unitary microscopic dynamics? Can distinct quantum features such as entanglement or coherence improve heat engine operation? Can a fundamental understanding of thermodynamics at the quantum scale inspire new technologies, or help improve existing technologies? These are all important questions in the emerging field of Quantum Thermodynamics.
+
+QTDU2023 will be an opportunity for those of us working in this field in the Oceania region to get to know each other and our work and foster new connections and collaborations.
+
+Wherever you are in the world, we invite you to join us here in Brisbane, Australia to attend a 4-day in-person conference covering four themes:
+
+1. Fundamental questions in quantum thermodynamics.
+2. Benefits and applications of quantum thermal machines.
+3. Connections between quantum thermodynamics and other fields, such as quantum information and quantum biology.
+4. How can quantum thermodynamics be incorporated into outreach events?
+
+The conference will be held at The University of Queensland's [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. Please visit [this page]({{<ref "location-directions">}}) for information about Brisbane, directions to the venue, and accommodation options.
+
+Abstract submissions are currently open here: [Abstract Submission]({{<ref"abstract-guidelines">}}). As places are limited, we will be accepting registrations after abstracts have been reviewed and speakers invited.
