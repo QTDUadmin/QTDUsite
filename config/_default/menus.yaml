@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: '#welcome'
+    url: 'about'
     weight: 20
   - name: Abstracts & Registration
     identifier: absmenu
@@ -26,17 +26,8 @@ main:
     url: '#programme'
     weight: 40
   - name: Location & Accommodation
-    url: location
-    identifier: locaccom
-    weight: 50
-  - name: Venue & Directions
-    parent: locaccom
     url: 'location-directions'
-    weight: 10
-  - name: Accommodation
-    parent: locaccom
-    url: 'accommodation'
-    weight: 20
+    weight: 50
   - name: Organisers
     url: '#people'
     weight: 60
