@@ -14,7 +14,7 @@ comments: false
 ---
 How do notions of heat and irreversibility emerge from unitary microscopic dynamics? Can distinct quantum features such as entanglement or coherence improve heat engine operation? Can a fundamental understanding of thermodynamics at the quantum scale inspire new technologies, or help improve existing technologies? These are all important questions in the emerging field of Quantum Thermodynamics.
 
-QTDU2023 will be an opportunity for those of us working in this field in the Oceania region to get to know each other and our work and foster new connections and collaborations.
+QTDU2023 will be an opportunity for those of us working in this field in Australia and the Asia-Pacific region to get to know each other and our work and foster new connections and collaborations.
 
 Wherever you are in the world, we invite you to join us here in Brisbane, Australia to attend a 4-day in-person conference covering four themes:
 
