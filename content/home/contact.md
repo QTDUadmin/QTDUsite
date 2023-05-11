@@ -28,4 +28,5 @@ design:
 # Sponsors
 
 QTDU2023 is kindly funded by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland.
+
 <br>
