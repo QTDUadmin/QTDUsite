@@ -5,6 +5,7 @@ active: true
 weight: 10
 title: ""
 hero_media: australia_road_sign_smallw5-29.svg.png
+image_size: "contain"
 widget_id: header
 
 design:
