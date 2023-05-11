@@ -1,10 +1,10 @@
 ---
-widget: blank
+widget: hero
 headless: false
 active: true
 weight: 10
 title: ""
-#hero_media: australia_road_sign_smallw5-29.svg.png
+hero_media: australia_road_sign_smallw5-29.svg.png
 widget_id: header
 
 design:
@@ -13,7 +13,8 @@ design:
     
 ---
 
-# <mark>*Quantum Thermodynamics Down Under 2023*</mark>
+# <mark>*Quantum Thermodynamics*</mark>
+# <mark>*Down Under 2023*</mark>
 {style="color: black"}
 #<br>
 
