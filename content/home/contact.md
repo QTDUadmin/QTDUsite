@@ -1,18 +1,23 @@
 ---
-widget: blank
-widget_id: contact
+widget: hero
+headless: false
+active: true
 weight: 90
 title: ""
-subtitle: null
-content:
-  email: QTDUadmin@protonmail.com
-  autolink: true
-headless: true
+hero_media: 482px-psm_v12_d277_trevitchick_locomotive_1804.jpg
+widget_id: contact
+
 design:
-  columns: "1"
   background:
     color: "#000000"
     text_color_light: true
+
+#content:
+#  email: QTDUadmin@protonmail.com
+#  autolink: true
+#headless: true
+#design:
+# columns: "1"
 ---
 # Contact
 
