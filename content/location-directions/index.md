@@ -45,7 +45,7 @@ Mt Coot-tha overlooks the city, and can be reached by bus. The Brisbane Planetar
 
 ### Visiting the University of Queensland
 
-If you'd like to visit the University of Queensland campus, and the School of Mathematics and Physics, we are located in the suburb of St Lucia, about half an hour by bus from the city centre (or slightly longer but more scenically by ferry).
+If you'd like to visit the University of Queensland campus, and the [School of Mathematics and Physics](https://smp.uq.edu.au/), we are located in the suburb of St Lucia, about half an hour by bus from the city centre (or slightly longer but more scenically by ferry).
 
 If you are considering extending your stay either side of the conference, and would like to get in touch with anyone in the School, please let us know!
 
