@@ -13,11 +13,7 @@ design:
     
 ---
 
-#<br>
-
-# <mark>*Quantum Thermodynamics</mark>*
-
-# <mark>*Down Under 2023*</mark>
+# <mark>*Quantum Thermodynamics Down Under 2023*</mark>
 {style="color: black"}
 #<br>
 
