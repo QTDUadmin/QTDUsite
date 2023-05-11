@@ -1,10 +1,10 @@
 ---
-widget: hero
+widget: blank
 headless: false
 active: true
 weight: 10
 title: ""
-hero_media: australia_road_sign_smallw5-29.svg.png
+#hero_media: australia_road_sign_smallw5-29.svg.png
 widget_id: header
 
 design:
