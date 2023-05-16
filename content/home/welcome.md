@@ -13,8 +13,14 @@ Welcome to the inaugural Quantum Thermodynamics Down Under (QTDU) conference!
 
 QTDU2023 will be a 4-day in-person conference situated in Brisbane, Australia, and an opportunity for all of us to share our research and foster collaborations with fellow researchers in quantum thermodynamics within Australia and our region of the globe.
 
-We are delighted to welcome Professor Janet Anders from the University of Exeter to sunny Queensland as one of our invited speakers. 
-<br> We will be announcing more speakers as they are confirmed.
+We are delighted to welcome as our invited speakers:
+<ul>
+  <li><a href="https://www.quantum-exeter.co.uk/janet-anders/">Janet Anders</a>, University of Exeter, UK</li>
+    <li><a href="https://www.griffith.edu.au/centre-quantum-dynamics/our-researchers/joan-vaccaro">Joan Vaccaro</a>, Griffith University, Australia</li>
+    <li><a href="https://quantumsteampunk.umiacs.io/people/nicole-yunger-halpern/">Nicole Yunger Halpern</a>, University of Maryland, USA (online)</li>
+</ul>
+
+We will be announcing more speakers as they are confirmed.
 
 Please visit our [About page]({{<ref "about">}}) for more information about the conference, and the [Location page]({{<ref "location-directions">}}) for information about the venue and Brisbane.
 
