@@ -1,5 +1,5 @@
 ---
-title: Location & Directions
+title: Location & Accommodation
 date: 2023-05-05T01:33:47.466Z
 reading_time: false
 share: false
@@ -12,7 +12,7 @@ This venue is within walking distance of Central train station, Riverside ferry 
 
 On this page you will find directions, information about Brisbane, and information about accommodation options, including any special conference rates we are able to arrange.
 
-{{< cta cta_text="Directions" cta_link="#Directions" cta_new_tab="false" >}}  {{< cta cta_text="Accommodation" cta_link="#Accommodation" cta_new_tab="false" >}} {{< cta cta_text="About Brisbane" cta_link="#About Brisbane" cta_new_tab="false" >}}
+{< cta cta_text="Directions" cta_link="#Directions" cta_new_tab="false" >}  {< cta cta_text="Accommodation" cta_link="#Accommodation" cta_new_tab="false" >} {< cta cta_text="About Brisbane" cta_link="#About Brisbane" cta_new_tab="false" >}}
 
 
 ## Directions
