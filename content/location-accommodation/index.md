@@ -27,7 +27,7 @@ Note: AirTrain services do not run very early and very late in the day. Please c
 Note: we will be adding to this list with any futher deals we are able to arrange up until registrations open
 
 [Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane QLD 4000 
-Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
+<br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
 
 ## About Brisbane
 
