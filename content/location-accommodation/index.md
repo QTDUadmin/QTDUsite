@@ -21,6 +21,8 @@ Note: AirTrain services do not run very early and very late in the day. Please c
 
 <b>From Gold Coast airport to city centre:</b> You will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane. Central is the train station closest to the conference venue. Note that this journey takes about 2 hours.
 
+<br>
+
 ## Accommodation Options
 
 ### Conference Deals
