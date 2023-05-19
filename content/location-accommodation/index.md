@@ -11,7 +11,7 @@ The conference will be held in Room 1M16 at [308 Queen Street](https://about.uq.
 This venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane: Queen Street and King George Square. 
 
 On this page you will find directions, information about Brisbane, and information about accommodation options, including any special conference rates we are able to arrange.
-{{< toc >}}
+{{< toc hide_on="xl" >}}
 
 ## Directions
 
