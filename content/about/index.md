@@ -23,6 +23,6 @@ Wherever you are in the world, we invite you to join us here in Brisbane, Austra
 3. Connections between quantum thermodynamics and other fields, such as quantum information and quantum biology.
 4. How can quantum thermodynamics be incorporated into outreach events?
 
-The conference will be held at The University of Queensland's [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. Please visit [this page]({{<ref "location-directions">}}) for information about Brisbane, directions to the venue, and accommodation options.
+The conference will be held at The University of Queensland's [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. Please visit [this page]({{<ref "location-accommodation">}}) for information about Brisbane, directions to the venue, and accommodation options.
 
 Abstract submissions are currently open here: [Abstract Submission]({{<ref"abstract-guidelines">}}). As places are limited, we will be accepting registrations after abstracts have been reviewed and speakers invited.
