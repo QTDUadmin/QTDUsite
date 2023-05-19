@@ -16,6 +16,7 @@ QTDU2023 will be a 4-day in-person conference situated in Brisbane, Australia, a
 We are delighted to welcome as our invited speakers:
 <ul>
   <li><a href="https://www.quantum-exeter.co.uk/janet-anders/">Janet Anders</a>, University of Exeter, UK</li>
+  <li><a href="https://www.otago.ac.nz/physics/staff/MichaelJack.html">Michael Jack</a>, University of Otago, NZ</li>
     <li><a href="https://www.griffith.edu.au/centre-quantum-dynamics/our-researchers/joan-vaccaro">Joan Vaccaro</a>, Griffith University, Australia</li>
     <li><a href="https://quantumsteampunk.umiacs.io/people/nicole-yunger-halpern/">Nicole Yunger Halpern</a>, University of Maryland, USA (online)</li>
 </ul>
