@@ -11,7 +11,7 @@ The conference will be held in Room 1M16 at [308 Queen Street](https://about.uq.
 This venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane: Queen Street and King George Square. 
 
 On this page you will find directions, information about Brisbane, and information about accommodation options, including any special conference rates we are able to arrange.
-{{< toc hide_on="xl" >}}
+{{< toc >}}
 
 ## Directions
 
@@ -20,6 +20,14 @@ On this page you will find directions, information about Brisbane, and informati
 Note: AirTrain services do not run very early and very late in the day. Please check the [Translink website](https://translink.com.au/) in case you'd like to consider this when booking flights. Otherwise, there are taxi ranks at both airports, and rideshare services.
 
 <b>From Gold Coast airport to city centre:</b> You will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane. Central is the train station closest to the conference venue. Note that this journey takes about 2 hours.
+
+## Accommodation Options
+
+### Conference Deals
+Note: we will be adding to this list with any futher deals we are able to arrange up until registrations open
+
+[Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane QLD 4000 
+Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
 
 ## About Brisbane
 
