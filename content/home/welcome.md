@@ -23,7 +23,7 @@ We are delighted to welcome as our invited speakers:
 
 We will be announcing more speakers as they are confirmed.
 
-Please visit our [About page]({{<ref "about">}}) for more information about the conference, and the [Location page]({{<ref "location-directions">}}) for information about the venue and Brisbane.
+Please visit our [About page]({{<ref "about">}}) for more information about the conference, and the [Location page]({{<ref "location-accommodation">}}) for information about the venue and Brisbane.
 
 Abstract submissions are [open here]({{<ref "abstract-guidelines">}}).
 <br> Registration will be open from July 10th 2023, after the first round of abstracts have been notified. As places are limited to 48 people, priority will be given to attendees who are presenting a talk.
