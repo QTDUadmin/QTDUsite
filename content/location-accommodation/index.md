@@ -29,6 +29,8 @@ Note: we will be adding to this list with any futher deals we are able to arrang
 [Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane QLD 4000 
 <br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
 
+<br>
+
 ## About Brisbane
 
 ### Public Transport
