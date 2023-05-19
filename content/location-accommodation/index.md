@@ -53,7 +53,7 @@ From the centre of the city, it is a quick walk (or ferry) across the river to t
 
 For natural beaches, one can travel north to the Sunshine Coast, or south to the Gold Coast, or east to Stradbroke Island (however note these are definitely day trips!). 
 
-Mt Coot-tha overlooks the city, and can be reached by bus. The Brisbane Planetarium and Mt Coot-tha botanic gardens are also nestled into the side of the mountain.
+Mt Coot-tha overlooks the city, and can be reached by bus. The [Brisbane Planetarium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/sir-thomas-brisbane-planetarium) and Mt Coot-tha botanic gardens are also nestled into the side of the mountain.
 
 ### Visiting the University of Queensland
 
