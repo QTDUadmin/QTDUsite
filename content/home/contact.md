@@ -1,32 +1,24 @@
 ---
 widget: hero
+widget_id: contact
 headless: false
-active: true
 weight: 90
 title: ""
-hero_media: 482px-psm_v12_d277_trevitchick_locomotive_1804.jpg
-widget_id: contact
-
+active: true
 design:
   background:
     color: "#000000"
     text_color_light: true
-
-#content:
-#  email: QTDUadmin@protonmail.com
-#  autolink: true
-#headless: true
-#design:
-# columns: "1"
+hero_media: 482px-psm_v12_d277_trevitchick_locomotive_1804.jpg
 ---
 # Contact
 
 :envelope: [QTDUadmin@protonmail.com](mailto:QTDUadmin@protonmail.com) 
 
-
-
 # Sponsors
 
-QTDU2023 is kindly funded by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland.
+QTDU2023 is kindly funded by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/).
 
 <br>
+
+![](equs_logo_white_-inline_reverse-copy.png)
