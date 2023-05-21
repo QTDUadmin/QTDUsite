@@ -44,6 +44,10 @@ Some suggestions for a couple of different price brackets, that are close to the
 [George Williams Hotel](https://www.hotelsone.com/brisbane-hotels-au/george-williams-hotel-brisbane.html), 317-325 George Street, Brisbane
 <br>$148 per person per night, 950m to venue.
 
+#### Apartments
+[Oaks Brisbane Aurora](https://www.oakshotels.com/en/oaks-aurora-tower), 420 Queen Street, Brisbane
+<br>$387 for 2 bedroom apartment (sleeps 4), 270m to venue (note prices vary based on number of nights booked).
+
 <br>
 
 ## About Brisbane
