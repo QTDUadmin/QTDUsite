@@ -32,14 +32,14 @@ Note: we will be adding to this list with any futher deals we are able to arrang
 <br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
 
 ### Other Suggestions
-These are some suggestions for a couple of different price brackets, that are close to the conference venue.
+Some suggestions for a couple of different price brackets, that are close to the conference venue.
 
 #### Hostels
 [All Nations Brisbane](https://nomadsworld.com/australia/nomads-brisbane/), 308 Edward Street, Brisbane
 <br>$100 per person per night for a single occupancy room, 450m to venue.
 
 #### Hotels
-George Williams Hotel(https://www.hotelsone.com/brisbane-hotels-au/george-williams-hotel-brisbane.html), 317-325 George Street, Brisbane
+[George Williams Hotel](https://www.hotelsone.com/brisbane-hotels-au/george-williams-hotel-brisbane.html), 317-325 George Street, Brisbane
 <br>$148 per person per night, 950m to venue.
 
 <br>
