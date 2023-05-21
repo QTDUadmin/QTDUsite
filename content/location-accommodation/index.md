@@ -14,11 +14,13 @@ On this page you will find directions, information about Brisbane, and informati
 The conference will be held in Room 1M16 at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre.
 This venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane -- Queen Street and King George Square. 
 
-<b>From Brisbane airport to city centre:</b> Brisbane's international and domestic airports are directly connected to the city centre by train. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the train station closest to the conference venue. The journey takes about half an hour.
+####Brisbane airport to city centre:
+Brisbane's international and domestic airports are directly connected to the city centre by train. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the train station closest to the conference venue. The journey takes about half an hour.
 
 Note: AirTrain services do not run very early and very late in the day. Please check the [Translink website](https://translink.com.au/) in case you'd like to consider this when booking flights. Otherwise, there are taxi ranks at both airports, and rideshare services.
 
-<b>From Gold Coast airport to city centre:</b> You will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane. Central is the train station closest to the conference venue. Note that this journey takes about 2 hours.
+####Gold Coast airport to city centre:
+You will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane. Central is the train station closest to the conference venue. Note that this journey takes about 2 hours.
 
 <br>
 
