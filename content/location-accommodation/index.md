@@ -34,7 +34,7 @@ Note: we will be adding to this list with any futher deals we are able to arrang
 <br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
 
 ### Other Suggestions
-Some suggestions for a couple of different price brackets, that are close to the conference venue.
+Some suggestions for a couple of different price brackets, that are close to the conference venue. Note prices are indicative only and may depend on the duration and timing of stay.
 
 #### Hostels
 [All Nations Brisbane](https://nomadsworld.com/australia/nomads-brisbane/), 308 Edward Street, Brisbane
@@ -46,7 +46,7 @@ Some suggestions for a couple of different price brackets, that are close to the
 
 #### Apartments
 [Oaks Brisbane Aurora](https://www.oakshotels.com/en/oaks-aurora-tower), 420 Queen Street, Brisbane
-<br>$387 for 2 bedroom apartment (sleeps 4), 270m to venue (note prices vary based on number of nights booked).
+<br>$387 for 2 bedroom apartment (sleeps 4), 270m to venue.
 
 <br>
 
