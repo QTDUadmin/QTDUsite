@@ -17,8 +17,9 @@ We are delighted to welcome as our invited speakers (more of which we will annou
 <ul>
   <li><a href="https://www.quantum-exeter.co.uk/janet-anders/">Janet Anders</a>, University of Exeter, UK</li>
   <li><a href="https://www.otago.ac.nz/physics/staff/MichaelJack.html">Michael Jack</a>, University of Otago, NZ</li>
-    <li><a href="https://www.griffith.edu.au/centre-quantum-dynamics/our-researchers/joan-vaccaro">Joan Vaccaro</a>, Griffith University, Australia</li>
-    <li><a href="https://quantumsteampunk.umiacs.io/people/nicole-yunger-halpern/">Nicole Yunger Halpern</a>, University of Maryland, USA (online)</li>
+  <li><a href="https://www.griffith.edu.au/centre-quantum-dynamics/our-researchers/joan-vaccaro">Joan Vaccaro</a>, Griffith University, Australia</li>
+  <li><a href="https://groups.oist.jp/qsu/thomas-busch-0">Thomas Busch, Okinawa Institute of Science and Technology, Japan</a>
+  <li><a href="https://quantumsteampunk.umiacs.io/people/nicole-yunger-halpern/">Nicole Yunger Halpern</a>, University of Maryland, USA (online)</li>
 </ul>
 
 Please visit our [About page]({{<ref "about">}}) for more information about the conference, and the [Location page]({{<ref "location-accommodation">}}) for information about the venue/Brisbane and accommodation options.
