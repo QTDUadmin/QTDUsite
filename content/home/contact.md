@@ -13,7 +13,7 @@ hero_media: equs_logo_inline_colour[2][2].png
 ---
 # Contact
 
-:envelope: [QTDUadmin@protonmail.com](mailto:QTDUadmin@protonmail.com) 
+:envelope: QTDUadmin@protonmail.com
 
 # Sponsors
 
