@@ -21,6 +21,10 @@ main:
     parent: absmenu
     url: 'abstract-guidelines'
     weight: 20
+  - name: Registration
+    parent: absmenu
+    url: 'registration'
+    weight: 30
   - name: Programme
     url: '#programme'
     weight: 40
