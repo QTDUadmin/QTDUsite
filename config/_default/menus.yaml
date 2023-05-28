@@ -10,7 +10,7 @@ main:
   - name: About
     url: 'about'
     weight: 20
-  - name: Abstracts
+  - name: Abstracts & Registration
     identifier: absmenu
     weight: 30
   - name: Important Dates
