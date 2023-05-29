@@ -16,7 +16,7 @@ How do notions of heat and irreversibility emerge from unitary microscopic dynam
 
 QTDU2023 will be an opportunity for those of us working in this field in Australia and the Asia-Pacific region to get to know each other and our work and foster new connections and collaborations.
 
-Wherever you are in the world, we invite you to join us here in Brisbane, Australia to attend a 4-day in-person conference covering four themes:
+Wherever you are in the world, we invite you to join us here in Brisbane, Australia to attend a 4-day in-person conference covering, but not limited to, four themes:
 
 1. Fundamental questions in quantum thermodynamics.
 2. Benefits and applications of quantum thermal machines.
