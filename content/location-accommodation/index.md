@@ -34,7 +34,7 @@ Note: we will be adding to this list with any futher deals we are able to arrang
 <br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
 
 ### Other Suggestions
-Some suggestions for a couple of different price brackets, that are close to the conference venue. Note prices are indicative only and may depend on the duration and timing of stay.
+Some suggestions for a couple of different price brackets, that are close to the conference venue.
 
 [George Williams Hotel](https://www.hotelsone.com/brisbane-hotels-au/george-williams-hotel-brisbane.html), 317-325 George Street, Brisbane
 <br>950m to venue.
