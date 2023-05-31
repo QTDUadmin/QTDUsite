@@ -36,17 +36,11 @@ Note: we will be adding to this list with any futher deals we are able to arrang
 ### Other Suggestions
 Some suggestions for a couple of different price brackets, that are close to the conference venue. Note prices are indicative only and may depend on the duration and timing of stay.
 
-#### Hostels
-[All Nations Brisbane](https://nomadsworld.com/australia/nomads-brisbane/), 308 Edward Street, Brisbane
-<br>$100 per person per night for a single occupancy room, 450m to venue.
-
-#### Hotels
 [George Williams Hotel](https://www.hotelsone.com/brisbane-hotels-au/george-williams-hotel-brisbane.html), 317-325 George Street, Brisbane
-<br>$148 per person per night, 950m to venue.
+<br>950m to venue.
 
-#### Apartments
 [Oaks Brisbane Aurora](https://www.oakshotels.com/en/oaks-aurora-tower), 420 Queen Street, Brisbane
-<br>$387 for 2 bedroom apartment (sleeps 4), 270m to venue.
+<br>Apartments available, 270m to venue.
 
 <br>
 
