@@ -11,7 +11,6 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-* Now: [Abstract Submissions Open]({{<ref "abstract-guidelines">}})
 * 30th Jun 2023: Abstract Submissions Close
 * 10th Jul 2023: Registration Opens*
 * 6th Oct 2023: Registration Closes
