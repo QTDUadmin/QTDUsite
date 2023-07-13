@@ -11,4 +11,4 @@ We will be accepting registrations here from July 24th 2023. This has been delay
 
 There will be a small conference fee of $90 (AUD).
 
-More information will appear on this page closer to the registration opening date. In the meantime please send all enquiries to our email address on the front page.
+More information will appear on this page closer to the registration opening date. In the meantime please send all enquiries to our email address ("Contact" at the top right of the page).
