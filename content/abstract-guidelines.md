@@ -9,7 +9,7 @@ comments: false
 ---
 Abstract submission is now closed. 
 
-We are currently reviewing the submissions and aim to send out invites to those whose abstracts were successful promptly to aid in planning travel and accommodation.
+If you submitted an abstract but have not yet received an email from us, please check your spam folder, or ensure you can receive emails from our admin address: QTDUadmin@protonmail.com
 
-In the meantime, please check back here for any updates.
+If your abstract was successful please register asap as we will not be able to guarantee you a place after [general registration](registration) opens.
 
