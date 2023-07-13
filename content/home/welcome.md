@@ -25,4 +25,4 @@ We are delighted to welcome as our invited speakers (more of which we will annou
 Please visit our [About page]({{<ref "about">}}) for more information about the conference, and the [Location page]({{<ref "location-accommodation">}}) for information about the venue/Brisbane and accommodation options.
 
 Abstract submissions are now closed, but you can click [here for more information]({{<ref "abstract-guidelines">}}).
-<br> [Registration]({{<ref "registration">}}) will be open from July 10th 2023, after the first round of abstracts have been notified. As places are limited to 48 people, priority will be given to attendees who are presenting a talk. There will be a small conference fee of $90, with support for registrants with limited funding to be made available.
+<br> [Registration]({{<ref "registration">}}) will now be open from July 24th 2023, after the first round of abstracts have been notified. As places are limited to 48 people, priority will be given to attendees who are presenting a talk. There will be a small conference fee of $90, with support for registrants with limited funding to be made available.
