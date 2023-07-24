@@ -7,8 +7,9 @@ profile: false
 comments: false
  
 ---
-We will be accepting registrations here from July 24th 2023. This has been delayed from the original date to allow those offered contributed talks time to respond.  
+Registration is now open. Please [follow this link]({{<ref "https://payments.uq.edu.au/ECET101SCE018">}}) to an online payment portal, and answer a few questions about yourself (including dietary and accesibility requirements).
+Note there will be a small conference fee of $90 (AUD).
 
-There will be a small conference fee of $90 (AUD).
+After registration is complete, you should receive a confirmation email.
 
-More information will appear on this page closer to the registration opening date. In the meantime please send all enquiries to our email address ("Contact" at the top right of the page).
+Please send all enquiries to our email address ("Contact" at the top right of the page).
