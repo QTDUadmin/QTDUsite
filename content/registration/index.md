@@ -7,7 +7,7 @@ profile: false
 comments: false
  
 ---
-Registration is now open. Please [follow this link]({{<ref "https://payments.uq.edu.au/ECET101SCE018">}}) to an online payment portal, and answer a few questions about yourself (including dietary and accesibility requirements).
+Registration is now open. Please [follow this link](https://payments.uq.edu.au/ECET101SCE018) to an online payment portal, and answer a few questions about yourself (including dietary and accesibility requirements).
 Note there will be a small conference fee of $90 (AUD).
 
 After registration is complete, you should receive a confirmation email.
