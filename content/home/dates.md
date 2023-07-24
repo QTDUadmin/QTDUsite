@@ -12,8 +12,8 @@ design:
     image_darken: 0
 ---
 * 30th Jun 2023: Abstract Submissions Close
-* 24th Jul 2023: Registration Opens*
-* 6th Oct 2023: Registration Closes
+* 24th Jul 2023: Registration Opens
+* 6th Oct 2023: Registration Closes*
 * 7th--10th Nov 2023: Conference Dates
 
-*as places are limited, priority will be given to attendees who are presenting a talk
+*as places are limited, registration will close before this date if all places are filled
