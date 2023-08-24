@@ -13,3 +13,4 @@ comments: false
  
 ---
 This programme will be updated in the lead up to the conference as more details are confirmed. An abstract booklet will also be made available.
+{{% embed_pdf url="https://qtdownunder2023.com/programme/programme.pdf" filename="programme.pdf" %}}
