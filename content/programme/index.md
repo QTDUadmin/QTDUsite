@@ -7,7 +7,9 @@ profile: false
 comments: false
  
 ---
-Tuesday, 7th November
+{{< toc >}}
+
+### Tuesday, 7th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -92,7 +94,7 @@ Tuesday, 7th November
 
 <br>
 
-Wednesday, 8th November
+### Wednesday, 8th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -173,7 +175,7 @@ Wednesday, 8th November
 
 <br>
 
-Thursday, 9th of November
+### Thursday, 9th of November
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -263,3 +265,69 @@ Thursday, 9th of November
 </tbody>
 </table>
 
+<br>
+
+### Friday, 10th of November
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5w3z{background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">8:30--9:00</th>
+    <th class="tg-0pky" colspan="2">Arrival</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">9:00--9:30</td>
+    <td class="tg-0pky">Vijit Nautiyal</td>
+    <td class="tg-0pky">A finite-time quantum Otto cycle driven by atomic interactions</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9:30--10:00</td>
+    <td class="tg-0pky">Liam McClelland</td>
+    <td class="tg-0pky">A quantum spin heat engine with trapped Yb+ ions</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:00--10:30</td>
+    <td class="tg-0pky">Vishnu Muraleedharan Sajitha</td>
+    <td class="tg-0pky">Finite-time quantum Otto cycle</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30--11:00</td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">Neil Dowling</td>
+    <td class="tg-0pky">Quantum Chaos, Scrambling, and (Operator) Entanglement</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:30--12:00</td>
+    <td class="tg-0pky">Tyler Neely</td>
+    <td class="tg-0pky">Point vortex thermodynamics realised in Bose-Einstein condensates</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:00--12:30</td>
+    <td class="tg-0pky">Matthew Davis</td>
+    <td class="tg-0pky">Thermalisation and many-body localisation in a two-dimensional lattice of ultracold polar molecules with disordered filling</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:30--13:00</td>
+    <td class="tg-0pky" colspan="2">Wrap Up &amp; Close</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00--</td>
+    <td class="tg-hafo" colspan="2">Social Activity (TBD)</td>
+  </tr>
+</tbody>
+</table>
