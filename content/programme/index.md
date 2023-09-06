@@ -14,26 +14,25 @@ Tuesday, 7th November
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-5w3z{background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky">8:00--8:50</th>
-    <th class="tg-0pky">Registration</th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky" colspan="2" rowspan="2">Registration<br><br>Opening &amp; Welcome</th>
+  </tr>
+  <tr>
+    <th class="tg-0pky">8:50--9:00</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">8:50--9:00</td>
-    <td class="tg-0pky">Opening &amp; Welcome</td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
     <td class="tg-0pky">9:00--10:00</td>
-    <td class="tg-0pky">Thomas Busch</td>
+    <td class="tg-61xu">Thomas Busch</td>
     <td class="tg-0pky">Making statistics work: a quantum engine in the BEC--BCS crossover</td>
   </tr>
   <tr>
@@ -43,8 +42,7 @@ Tuesday, 7th November
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
-    <td class="tg-c3ow">Smoko</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
@@ -63,18 +61,16 @@ Tuesday, 7th November
   </tr>
   <tr>
     <td class="tg-0pky">12:30--14:00</td>
-    <td class="tg-c3ow">Lunch</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-5w3z" colspan="2">Lunch</td>
   </tr>
   <tr>
     <td class="tg-0pky">14:00--15:00</td>
-    <td class="tg-0pky">Varinder Singh</td>
+    <td class="tg-61xu">Varinder Singh</td>
     <td class="tg-0pky">Thermodynamic uncertainty relation in degenerate and nondegenerate maser heat engines</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-c3ow">Smoko</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
@@ -88,8 +84,7 @@ Tuesday, 7th November
   </tr>
   <tr>
     <td class="tg-0pky">16:30--17:00</td>
-    <td class="tg-0pky">Discussion Panel</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-pidv" colspan="2">Discussion Panel</td>
   </tr>
 </tbody>
 </table>
