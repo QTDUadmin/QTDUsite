@@ -9,9 +9,9 @@ comments: false
 ---
 Tuesday, 7th November
 
+|--------------|----------------------|---------------------------------------------------------------------------------------|
 | 8:00--8:50   | Registration         |                                                                                       |
 | 8:50--9:00   | Opening & Welcome    |                                                                                       |
-|--------------|----------------------|---------------------------------------------------------------------------------------|
 | 9:00--10:00  | Thomas Busch         | Making statistics work: a quantum engine in the BEC--BCS crossover                    |
 | 10:00--10:30 | Raymon Watson        | An interaction driven quantum many-body heat engine enabled by atom-atom correlations |
 | 10:30--11:00 |         Smoko        |                                                                                       |
