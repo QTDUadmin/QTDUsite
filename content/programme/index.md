@@ -225,7 +225,7 @@ Talk titles follow below.
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Thomas Fogarty</td>
+    <td class="tg-0pky">Thomás Fogarty</td>
     <td class="tg-0pky">Enhancing many-body quantum batteries through symmetrization</td>
   </tr>
   <tr>
