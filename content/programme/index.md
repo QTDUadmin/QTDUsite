@@ -7,7 +7,7 @@ profile: false
 comments: false
  
 ---
-Tuesday, 7th November
+# Tuesday, 7th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -88,3 +88,87 @@ Tuesday, 7th November
   </tr>
 </tbody>
 </table>
+
+
+<br><br>
+
+# Wednesday, 8th November
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5w3z{background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">8:30--9:00</th>
+    <th class="tg-0pky" colspan="2">Arrival</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">9:00--10:00</td>
+    <td class="tg-61xu">Janet Anders</td>
+    <td class="tg-0pky">Strong coupling and coherence in quantum thermodynamics</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:00--10:30</td>
+    <td class="tg-0pky">Nicole Yunger Halpern (online)</td>
+    <td class="tg-0pky">What happens to entropy production when conserved quantities fail to commute</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30--11:00</td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">Gabriella Gonçalves Damas (online)</td>
+    <td class="tg-0pky">Optimizing Three-Qubit Quantum Refrigeration with Fermionic Thermal Baths</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:30--12:00</td>
+    <td class="tg-0pky">Mohamed Boubakour</td>
+    <td class="tg-0pky">Dynamical Invariant based Shortcut to Thermalization</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:00--12:30</td>
+    <td class="tg-0pky">Kavan Modi</td>
+    <td class="tg-0pky">Multitime detailed balance</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:30--14:00</td>
+    <td class="tg-5w3z" colspan="2">Lunch</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00--15:00</td>
+    <td class="tg-61xu">Joan Vaccaro</td>
+    <td class="tg-0pky">[Title TBC]</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:00--15:30</td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:30--16:00</td>
+    <td class="tg-0pky">Joshua Foo</td>
+    <td class="tg-0pky">Superpositions of thermalisation states in relativistic quantum field theory</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:00--16:30</td>
+    <td class="tg-0pky">Carolyn Wood</td>
+    <td class="tg-0pky">Operational models of temperature superpositions</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:30--17:00</td>
+    <td class="tg-pidv" colspan="2">Discussion Panel</td>
+  </tr>
+</tbody>
+</table>
+
