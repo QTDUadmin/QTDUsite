@@ -7,7 +7,7 @@ profile: false
 comments: false
  
 ---
-# Tuesday, 7th November
+Tuesday, 7th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -90,10 +90,9 @@ comments: false
 </table>
 
 
-<br><br>
+<br>
 
-# Wednesday, 8th November
-
+Wednesday, 8th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
