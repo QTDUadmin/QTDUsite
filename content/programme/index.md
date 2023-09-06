@@ -82,7 +82,7 @@ Talk titles follow below.
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
     <td class="tg-0pky">Laraib Niaz (online)</td>
-    <td class="tg-0pky">[Title TBC]</td>
+    <td class="tg-0pky">A non-traditional quantum heat engine based on electromagnetically induced transparency</td>
   </tr>
   <tr>
     <td class="tg-0pky">16:00--16:30</td>
