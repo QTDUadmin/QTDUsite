@@ -211,7 +211,7 @@ comments: false
   </tr>
   <tr>
     <td class="tg-0pky">10:00--11:00</td>
-    <td class="tg-0pky">Nicole Yunger Halpern (online)</td>
+    <td class="tg-61xu">Nicole Yunger Halpern (online)</td>
     <td class="tg-0pky">Quantum Steampunk</td>
   </tr>
   <tr>
