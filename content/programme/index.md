@@ -7,6 +7,11 @@ profile: false
 comments: false
  
 ---
+A compact form of the programme can be downloaded here:
+{{< cta cta_text="Compact Programme" cta_link="https://qtdownunder2023.com/programme.pdf" cta_new_tab="true" >}}
+
+Talk titles follow below.
+
 {{< toc >}}
 
 ### Tuesday, 7th November
