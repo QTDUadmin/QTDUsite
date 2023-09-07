@@ -24,5 +24,4 @@ We are delighted to welcome our invited speakers:
 
 Please visit our [About page]({{<ref "about">}}) for more information about the conference, and the [Location page]({{<ref "location-accommodation">}}) for information about the venue/Brisbane and accommodation options. The preliminary conference programme is now available [here]({{<ref "programme">}}).
 
-Abstract submissions are now closed, but you can click [here for more information]({{<ref "abstract-guidelines">}}).
-<br> [Registration]({{<ref "registration">}}) is currently open, and will close October 6th. As places are limited to 48 people, registration will close earlier if all places are filled. Note there is a small conference fee of AUD$90.
+[Abstract submissions]({{<ref "abstract-guidelines">}}) are now closed. [Registration]({{<ref "registration">}}) is currently open, and will close October 6th. As places are limited to 48 people, registration will close earlier if all places are filled.
