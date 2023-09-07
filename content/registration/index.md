@@ -9,7 +9,7 @@ comments: false
 ---
 {{< cta cta_text="Register Here" cta_link="https://payments.uq.edu.au/ECET101SCE018" cta_new_tab="true" >}}
 
-Registration is now open. Please click the button above to open the online payment portal, and answer a few questions about yourself (including dietary and accesibility requirements).
+Registration is now open. Please click the button above to open the online payment portal, and answer a few questions about yourself (including dietary and accessibility requirements).
 Note there is a small conference fee of $90 (AUD).
 
 After registration is complete, you should receive a confirmation email.
