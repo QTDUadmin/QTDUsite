@@ -231,7 +231,7 @@ Talk titles follow below.
   <tr>
     <td class="tg-0pky">12:00--12:30</td>
     <td class="tg-0pky">Christopher Baker</td>
-    <td class="tg-0pky">[Title TBC]<br></td>
+    <td class="tg-0pky">An optomechanical heat engine based on the superfluid fountain effect<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">12:30--14:00</td>
