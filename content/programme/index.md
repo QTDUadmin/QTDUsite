@@ -155,7 +155,7 @@ Talk titles follow below.
   <tr>
     <td class="tg-0pky">14:00--15:00</td>
     <td class="tg-61xu">Joan Vaccaro</td>
-    <td class="tg-0pky">[Title TBC]</td>
+    <td class="tg-0pky">The equilibrium state for quantum systems with long-range interactions</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
