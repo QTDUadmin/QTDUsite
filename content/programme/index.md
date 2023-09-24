@@ -12,6 +12,8 @@ A compact form of the programme can be downloaded here:
 
 Talk titles follow below.
 
+Both versions of the programme will be updated as further details are confirmed. An abstract booklet will also be forthcoming.
+
 {{< toc >}}
 
 ### Tuesday, 7th November
