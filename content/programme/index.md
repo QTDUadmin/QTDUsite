@@ -55,8 +55,8 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">Huang RuoCheng</td>
-    <td class="tg-0pky">Engines for predictive work extraction from memoryful quantum stochastic processes</td>
+    <td class="tg-0pky">Jayne Thompson</td>
+    <td class="tg-0pky">Quantum energetic advantage for agents responding in real-time</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
@@ -255,8 +255,8 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">16:00--16:30</td>
-    <td class="tg-0pky">Jayne Thompson</td>
-    <td class="tg-0pky">Quantum energetic advantage for agents responding in real-time</td>
+    <td class="tg-0pky">Ruo Cheng Huang</td>
+    <td class="tg-0pky">Engines for predictive work extraction from memoryful quantum stochastic processes</td>
   </tr>
   <tr>
     <td class="tg-0pky">16:30--17:00</td>
