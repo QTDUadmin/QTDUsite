@@ -25,4 +25,4 @@ Wherever you are in the world, we invite you to join us here in Brisbane, Austra
 
 The conference will be held at The University of Queensland's [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. Please visit [this page]({{<ref "location-accommodation">}}) for information about Brisbane, directions to the venue, and accommodation options.
 
-Abstract submissions are now closed. You can visit this page for any updates: [Abstracts]({{<ref"abstract-guidelines">}}). Registration is now [open here](https://payments.uq.edu.au/ECET101SCE018), and will close on October 6th, or when places are full. 
+[Abstract submissions]({{<ref"abstract-guidelines">}}) and registration are now closed.
