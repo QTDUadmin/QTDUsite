@@ -11,5 +11,3 @@ Abstract submission is now closed.
 
 If you submitted an abstract but have not yet received an email from us, please check your spam folder, or ensure you can receive emails from our admin address: QTDUadmin@protonmail.com
 
-If your abstract was successful please register asap as we will not be able to guarantee you a place after [general registration]({{<ref "registration">}})  opens.
-
