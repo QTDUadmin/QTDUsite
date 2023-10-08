@@ -10,20 +10,9 @@ main:
   - name: About
     url: 'about'
     weight: 20
-  - name: Abstracts & Registration
-    identifier: absmenu
-    weight: 30
   - name: Important Dates
     parent: absmenu
     url: '#dates'
-    weight: 10
-  - name: Abstracts
-    parent: absmenu
-    url: 'abstract-guidelines'
-    weight: 20
-  - name: Registration
-    parent: absmenu
-    url: 'registration'
     weight: 30
   - name: Programme
     url: 'programme'
