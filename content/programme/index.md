@@ -156,8 +156,8 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">14:00--15:00</td>
-    <td class="tg-61xu">Joan Vaccaro</td>
-    <td class="tg-0pky">The equilibrium state for quantum systems with long-range interactions</td>
+    <td class="tg-61xu">Gerard Milburn</td>
+    <td class="tg-0pky">The thermodynamics of learning machines</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
@@ -165,13 +165,13 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
-    <td class="tg-0pky">Joshua Foo</td>
-    <td class="tg-0pky">Superpositions of thermalisation states in relativistic quantum field theory</td>
+    <td class="tg-0pky">Carolyn Wood</td>
+    <td class="tg-0pky">Operational models of temperature superpositions</td>
   </tr>
   <tr>
     <td class="tg-0pky">16:00--16:30</td>
-    <td class="tg-0pky">Carolyn Wood</td>
-    <td class="tg-0pky">Operational models of temperature superpositions</td>
+    <td class="tg-0pky">Joshua Foo</td>
+    <td class="tg-0pky">Superpositions of thermalisation states in relativistic quantum field theory</td>
   </tr>
   <tr>
     <td class="tg-0pky">16:30--17:00</td>
@@ -306,8 +306,8 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Vishnu Muraleedharan Sajitha</td>
-    <td class="tg-0pky">Finite-time quantum Otto cycle</td>
+    <td class="tg-0pky">Matthew Davis</td>
+    <td class="tg-0pky">Thermalisation and many-body localisation in a two-dimensional lattice of ultracold polar molecules with disordered filling</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
@@ -325,15 +325,10 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">12:00--12:30</td>
-    <td class="tg-0pky">Matthew Davis</td>
-    <td class="tg-0pky">Thermalisation and many-body localisation in a two-dimensional lattice of ultracold polar molecules with disordered filling</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12:30--13:00</td>
     <td class="tg-0pky" colspan="2">Wrap Up &amp; Close</td>
   </tr>
   <tr>
-    <td class="tg-0pky">14:00--</td>
+    <td class="tg-0pky">13:00--</td>
     <td class="tg-hafo" colspan="2">Social Activity (TBD)</td>
   </tr>
 </tbody>
