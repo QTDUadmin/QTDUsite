@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Quantum Thermodynamics Down Under'
     description: 'A physics conference focused on quantum thermodynamics and bringing Australian and international researchers in this field together.'
-    twitter: 'qtdu2023'
+    twitter: 'qtdu2024'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023 Me. This work is licensed under {license}'
+    notice: '© 2024 Carolyn Wood. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
