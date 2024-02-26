@@ -11,13 +11,15 @@ On this page you will find directions, information about Brisbane, and informati
 {{< toc >}}
 
 ## Directions
-The conference will be held in Room 1M16 at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre.
-This venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane -- Queen Street and King George Square. 
+The conference will likely be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. This will be confirmed soon.
+The venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane -- Queen Street and King George Square. 
+
+**Note: There is some ongoing construction in the city centre at this time. Please refer to the [Translink website](https://translink.com.au/) for up-to-date information.
 
 ### Brisbane airport to city centre
-Brisbane's international and domestic airports are directly connected to the city centre by train. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the train station closest to the conference venue. The journey takes about half an hour.
+Brisbane's international and domestic airports are directly connected to the city centre by train. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the train station closest to the conference venue, and the journey takes about half an hour.
 
-Note: AirTrain services do not run very early and very late in the day. Please check the [Translink website](https://translink.com.au/) in case you'd like to consider this when booking flights. Otherwise, there are taxi ranks at both airports, and rideshare services.
+We recommend checking AirTrain times on the [Translink website](https://translink.com.au/) in case you'd like to consider this when booking flights. Otherwise, there are taxi ranks at both airports, and rideshare services.
 
 ### Gold Coast airport to city centre
 You will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane. Central is the train station closest to the conference venue. Note that this journey takes about 2 hours.
@@ -27,11 +29,11 @@ You will first need to take a connecting bus, Route 760, from the Gold Coast air
 ## Accommodation Options
 
 ### Conference Deals
-Note: we will be adding to this list with any futher deals we are able to arrange up until registrations open
+We will be adding to this list with any deals we are able to arrange up until registrations open.
 
-[Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane
+<!-- [Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane
 <br>800m to venue. 
-<br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.
+<br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.-->
 
 ### Other Suggestions
 Some suggestions for a couple of different price brackets, that are close to the conference venue.
@@ -54,14 +56,14 @@ Note that services are less frequent on weekends, particularly Sundays.
   
 ### Climate
 
-Early November is the edge of summer in Brisbane. Temperatures range around 26-30°C in daytime, sometimes into the low 30s. Overnight temperatures tend to be around 18°C. As we are close to the tropics, it can be quite humid and there may be storms. 
-Air-conditioning indoors can be quite cold, so you might like to bring a jumper nonetheless.
+Early November is the edge of summer in Brisbane. Temperatures range around 26-30°C in daytime, sometimes into the low 30s, but humidity can make it seem hotter than this. Overnight temperatures tend to be around 18°C. As we are close to the tropics, it can be quite humid and there may be storms. 
+Air-conditioning indoors can be very cold, so please consider bringing something warm for inside the conference venue.
 
-As the sun is a deadly laser, we recommend keeping an eye on the [UV index](http://www.bom.gov.au/uv/) while you're here, and using sunscreen and appropriate clothing, particularly in the middle of the day.
+The Australian sun really is harsher than in the Northern hemisphere! We have one of the highest rates of skin cancer in the world. We recommend purchasing sunscreen in Australia to use here as it is tested for our sun, wearing appropriate clothing, and keeping an eye on the [UV index](http://www.bom.gov.au/uv/) while you're here, particularly in the middle of the day.
   
 ### Things to See and Do
 
-From the centre of the city, it is a quick walk (or ferry) across the river to the cultural precinct of Southbank, which includes museums and art galleries, restaurants, and a public artificial beach. The next suburb over, West End, also has a variety of restaurants and cafes.
+It's a quick walk (or ferry) from the centre of the city, across the river, to the cultural precinct of Southbank, which includes museums and art galleries, restaurants, and a public artificial beach. The next suburb over, West End, also has a variety of restaurants and cafes.
 
 For natural beaches, one can travel north to the Sunshine Coast, or south to the Gold Coast, or east to Stradbroke Island (however note these are definitely day trips!). 
 
