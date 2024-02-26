@@ -17,4 +17,4 @@ hero_media: equs_logo_inline_colour[2][2].png
 
 # Sponsors
 
-QTDU2023 is kindly funded by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/).
+<!-- QTDU2023 is kindly funded by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/). -->
