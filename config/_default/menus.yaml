@@ -17,8 +17,16 @@ main:
     url: '#programme'
     weight: 40
   - name: Location & Accommodation
-    url: 'location-accommodation'
+    identifier: location-accommodation
     weight: 50
+  - name: About Brisbane
+    parent: location-accommodation
+    url: 'location-accommodation/about-Brisbane'
+    weight: 10
+  - name: Accommodation
+    parent: location-accommodation
+    url: 'location-accommodation/accommodation'
+    weight: 20
   - name: Organisers
     url: '#people'
     weight: 60
