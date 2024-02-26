@@ -13,8 +13,8 @@ design:
     
 ---
 
-# <mark>Quantum Thermodynamics</mark>
-# <mark>Down Under 2024</mark>
+# <mark>**Quantum Thermodynamics**</mark>
+# <mark>**Down Under 2024**</mark>
 {style="color: black"}
 <br>
 
