@@ -9,7 +9,7 @@ widget_id: header
 
 design:
   background:
-    image: "blackgrey.png"
+    #image: "blackgrey.png"
     
 ---
 
