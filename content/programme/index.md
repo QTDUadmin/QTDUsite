@@ -7,7 +7,9 @@ profile: false
 comments: false
  
 ---
-A compact form of the programme can be downloaded here:
+To be announced.
+
+<!-- A compact form of the programme can be downloaded here:
 {{< cta cta_text="Compact Programme" cta_link="https://qtdownunder2023.com/QTDUprogramme.pdf" cta_new_tab="true" >}}
 
 Talk titles follow below.
@@ -332,4 +334,4 @@ Both versions of the programme will be updated as further details are confirmed.
     <td class="tg-hafo" colspan="2">Social Activity (TBD)</td>
   </tr>
 </tbody>
-</table>
+</table> -->
