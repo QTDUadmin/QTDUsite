@@ -23,7 +23,7 @@ main:
     url: '#people'
     weight: 60
   - name: QTDU2023
-    url: 'QTDU2023'
+    url: 'archive/QTDU2023'
     weight: 70
   - name: Contact
     url: '#contact'
