@@ -9,10 +9,7 @@ comments: false
 ---
 On this page you will find information about accommodation options, including any special conference rates we are able to arrange.
 
-The conference will likely be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. This will be confirmed soon.
-The venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane -- Queen Street and King George Square. 
-
-**Note: There is some ongoing construction in the city centre at this time. Please refer to the [Translink website](https://translink.com.au/) for up-to-date information.
+The conference will likely be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. See our [About Brisbane]({{<ref "location-accommodation/about-Brisbane">}}) page for information about public transport and getting to and from the airport.
 
 ## Accommodation Options
 
