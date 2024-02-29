@@ -9,7 +9,8 @@ widget_id: header
 
 design:
   background:
-    #image: "blackgrey.png"
+    color: "DarkTurquoise"
+    text_color_light: false 
     
 ---
 
