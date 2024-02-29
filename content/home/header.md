@@ -20,8 +20,8 @@ design:
 <br>
 
 <!-- ## 2024 -->
-{style="color: white"}
+{style="color: black"}
 ## Brisbane, Queensland, Australia
-{style="color: white"}
+{style="color: black"}
 
 <br>
