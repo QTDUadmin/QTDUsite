@@ -9,9 +9,8 @@ design:
   css_style: null
   css_class: null
 ---
-We are delighted to announce that Quantum Thermodynamics Down Under (QTDU) will be back for 2024!
-
-QTDU2024 will be a 4-day in-person conference situated in Brisbane, Australia, and an opportunity for all of us to share our research, foster collaborations with fellow researchers in quantum thermodynamics within Australia and our region of the globe, and reinforce connections made at last year's inaugural event.
+Following the success of last year's inauguaral conference, QTDU2024 will be the 2nd iteration of our 4-day in-person conference situated in Brisbane, Australia. 
+It's an opportunity for researchers in quantum thermodynamics within Australia and our region of the globe to share our work, foster new collaborations with fellow researchers both local and international, and reinforce connections made at last year's inaugural event.
 
 Watch this space where we will announce our invited speakers, location, and important dates in the coming weeks.
 
