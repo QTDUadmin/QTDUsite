@@ -25,3 +25,5 @@ design:
 {style="color: black"}
 
 <br>
+
+We are delighted to announce that Quantum Thermodynamics Down Under (QTDU) will be back for 2024!
