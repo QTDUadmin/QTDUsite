@@ -19,11 +19,9 @@ design:
 {style="color: black"}
 <br>
 
-<!-- ## 2024 -->
+## 12th -- 15th November 2024
 {style="color: black"}
 ## Brisbane, Queensland, Australia
 {style="color: black"}
 
-<br>
 
-We are delighted to announce that Quantum Thermodynamics Down Under (QTDU) will be back for 2024!
