@@ -9,7 +9,7 @@ widget_id: header
 
 design:
   background:
-    color: "DarkTurquoise"
+    #color: "DarkTurquoise"
     text_color_light: false 
     
 ---
