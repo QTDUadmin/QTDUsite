@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: QTDU2024 # Website name
-baseURL: 'https://qtdownunder2024.netlify.app' # Website URL
+baseURL: https://qtdownunder2024.netlify.app # Website URL
 
 ############################
 ## LANGUAGE
