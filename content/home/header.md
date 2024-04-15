@@ -1,27 +1,26 @@
 ---
 widget: hero
+widget_id: header
 headless: false
-active: true
 weight: 10
 title: ""
-hero_media: Australia_road_sign_medium_W5-29.png
-widget_id: header
-
+active: true
 design:
   background:
-    #color: "DarkTurquoise"
-    text_color_light: false 
-    
+    text_color_light: false
+hero_media: Australia_road_sign_medium_W5-29.png
 ---
+# ***Quantum Thermodynamics***
 
-# **Quantum Thermodynamics**
-# **Down Under 2024**
+# ***Down Under 2024***
+
 {style="color: black"}
 <br>
 
 ## 12th -- 15th November 2024
+
 {style="color: black"}
+
 ## Brisbane, Queensland, Australia
+
 {style="color: black"}
-
-
