@@ -17,4 +17,4 @@ design:
 
 # Sponsors
 
-QTDU2024 is kindly funded by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland. <!-- and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/). -->
+QTDU2024 is kindly sponsored by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland. <!-- and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/). -->
