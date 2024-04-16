@@ -1,7 +1,7 @@
 ---
 widget: blank
 widget_id: location
-headless: false
+headless: true
 weight: 50
 title: Location & Directions
 active: true
