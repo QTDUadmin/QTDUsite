@@ -7,9 +7,6 @@ title: Important Dates
 active: true
 design:
   columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
 ---
 Key Upcoming Dates:
 * 6th May 2024: Abstract Submissions Open
