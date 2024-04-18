@@ -9,7 +9,7 @@ design:
   css_style: null
   css_class: null
 ---
-Following the success of last year's inaugural conference, QTDU2024 is back for a 2nd iteration of our 4-day in-person conference situated in Brisbane, Australia. 
+Following the success of last year's inaugural conference, QTDU2024 is back for a 2nd iteration! QTDU is a 4-day in-person conference situated in Brisbane, Australia. 
 It's an opportunity for researchers in quantum thermodynamics within Australia and our region of the globe to share our work, foster new collaborations with fellow researchers both local and international, and reinforce connections made at last year's event.
 
 We are delighted to welcome our invited speakers thus far:
