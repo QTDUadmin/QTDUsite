@@ -9,7 +9,7 @@ design:
   columns: "2"
 ---
 Key Upcoming Dates:
-* 6th May 2024: Abstract Submissions Open
+* 7th May 2024: Abstract Submissions Open
 * 28th Jun 2024: Abstract Submissions Close
 * 15th Jul 2024: Registration Opens*
 * 18th Oct 2024: Registration Closes
