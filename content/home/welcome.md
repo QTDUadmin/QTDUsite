@@ -16,6 +16,7 @@ We are delighted to welcome our invited speakers thus far:
 <ul>
   <!-- <li><a href="https://www.quantum-exeter.co.uk/janet-anders/">Janet Anders</a>, University of Exeter, UK</li> -->
   <li><a href="http://cat.phys.s.u-tokyo.ac.jp/index-e.html">Masahito Ueda</a>, The University of Tokyo, Japan</li>
+  <li><a href="https://majulab.cnrs.fr/alexia-auffeves-personal-page">Alexia Auffèves</a>, CNRS International Research Lab MajuLab, France/Singapore</li> 
   <li><a href="https://people.csiro.au/q/j/james-quach">James Quach</a>, CSIRO, Australia</li>
   <li><a href="https://people.smp.uq.edu.au/KarenKheruntsyan/">Karen Kheruntsyan</a>, The University of Queensland, Australia</li>
   <!-- <li><a href=""></a>, </li> -->
