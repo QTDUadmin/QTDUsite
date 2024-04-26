@@ -14,15 +14,14 @@ It's an opportunity for researchers in quantum thermodynamics within Australia a
 
 We are delighted to welcome our invited speakers thus far:
 <ul>
-  <!-- <li><a href="https://www.quantum-exeter.co.uk/janet-anders/">Janet Anders</a>, University of Exeter, UK</li> -->
   <li><a href="http://cat.phys.s.u-tokyo.ac.jp/index-e.html">Masahito Ueda</a>, The University of Tokyo, Japan</li>
-  <li><a href="https://majulab.cnrs.fr/alexia-auffeves-personal-page">Alexia Auffèves</a>, CNRS International Research Lab MajuLab, France/Singapore</li> 
-  <li><a href="https://people.csiro.au/q/j/james-quach">James Quach</a>, CSIRO, Australia</li>
+  <li><a href="https://majulab.cnrs.fr/alexia-auffeves-personal-page">Alexia Auffèves</a>, CNRS International Research Lab MajuLab, France/Singapore</li>
   <li><a href="https://people.smp.uq.edu.au/KarenKheruntsyan/">Karen Kheruntsyan</a>, The University of Queensland, Australia</li>
-  <!-- <li><a href=""></a>, </li> -->
+  <li><a href="https://people.csiro.au/q/j/james-quach">James Quach</a>, CSIRO, Australia</li>  
+  <li><a href="https://www.nqch.sg/researcher/jayne-thompson/">Jayne Thompson</a>, A*STAR, Singapore</li>
 </ul>
 
-Watch this space for further speakers to be announced, and scroll down for upcoming important dates, and information about the location and organising committee.
+Watch this space as further speakers are announced, and scroll down for upcoming important dates, and information about the location and organising committee.
 
 Please visit our [About page]({{<ref "about">}}) for more information about the goals of the conference.
 
