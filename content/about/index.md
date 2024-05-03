@@ -21,7 +21,7 @@ Wherever you are in the world, we invite you to join us here in Brisbane, Austra
    1. Fundamental questions in quantum thermodynamics. 
    2. Quantum thermal machines and fluctuation theorems. 
    3. Connections between quantum thermodynamics and other fields, e.g. quantum information, relativity, quantum biology. 
-   4. Practical applications to industry and science communication. 
+   4. Practical applications to industry, and science communication. 
 
 <!-- The conference will be held at The University of Queensland's [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. Please visit [this page]({{<ref "location-accommodation">}}) for information about Brisbane, directions to the venue, and accommodation options. -->
 
