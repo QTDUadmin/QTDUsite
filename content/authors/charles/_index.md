@@ -5,7 +5,7 @@ authors:
 social:
   - display:
       header: false
-    link: https://smp.uq.edu.au/profile/8837/charles-woffinden
+    link: https://researchers.uq.edu.au/researcher/27048
     icon_pack: far
     icon: id-card
 organizations:
