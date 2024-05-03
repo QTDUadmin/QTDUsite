@@ -9,7 +9,7 @@ comments: false
 ---
 On this page you will find information about accommodation options, including any special conference rates we are able to arrange.
 
-The conference will likely be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. See our [About Brisbane]({{<ref "location-accommodation/about-Brisbane">}}) page for information about public transport and getting to and from the airport.
+The conference will be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. See our [About Brisbane]({{<ref "location-accommodation/about-Brisbane">}}) page for information about public transport and getting to and from the airport.
 
 ## Accommodation Options
 
