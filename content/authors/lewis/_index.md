@@ -5,7 +5,7 @@ authors:
 social:
   - display:
       header: false
-    link: https://smp.uq.edu.au/profile/11236/lewis-williamson
+    link: https://researchers.uq.edu.au/researcher/29512
     icon_pack: far
     icon: id-card
 organizations:
