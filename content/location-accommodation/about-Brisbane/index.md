@@ -11,8 +11,7 @@ On this page you will find directions, and information about Brisbane.
 {{< toc >}}
 
 ## Directions
-The conference will likely be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. This will be confirmed soon.
-The venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane -- Queen Street and King George Square. 
+The conference will be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. The venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane: Queen Street and King George Square**. 
 
 **Note: There is some ongoing construction in the city centre at this time. Please refer to the [Translink website](https://translink.com.au/) for up-to-date information.
 
@@ -30,16 +29,16 @@ You will first need to take a connecting bus, Route 760, from the Gold Coast air
 
 ### Public Transport
 
-For infomation about Brisbane's public transport networks, visit the [Translink website](https://translink.com.au/). If you are planning to use public transport while you're here, we recommend purchasing a GoCard.
+For infomation about Brisbane's public transport networks, visit the [Translink website](https://translink.com.au/). If you are planning to use public transport while you're here, we recommend purchasing a GoCard, however technology has recently been upgraded to allow credit cards on most services.
 
 Note that services are less frequent on weekends, particularly Sundays.
   
 ### Climate
 
-Early November is the edge of summer in Brisbane. Temperatures range around 26-30°C in daytime, sometimes into the low 30s, but humidity can make it seem hotter than this. Overnight temperatures tend to be around 18°C. As we are close to the tropics, it can be quite humid and there may be storms. 
+Early November is the edge of summer in Brisbane. Temperatures range around 26-30°C in daytime, sometimes into the low 30s, but humidity can make it seem hotter. Overnight temperatures tend to be around 18°C. There may also be storms. 
 Air-conditioning indoors can be very cold, so please consider bringing something warm for inside the conference venue.
 
-The Australian sun really is harsher than in the Northern hemisphere! We have one of the highest rates of skin cancer in the world. We recommend purchasing sunscreen in Australia to use here as it is tested for our sun, wearing appropriate clothing, and keeping an eye on the [UV index](http://www.bom.gov.au/uv/) while you're here, particularly in the middle of the day.
+The Australian sun really is harsher than in the Northern hemisphere! We have one of the highest rates of skin cancer in the world. We recommend purchasing sunscreen in Australia to use here as it is tested for our sun, wearing appropriate clothing, and keeping an eye on the UV index while you're here. [See here for recommendations for sun safety](https://cancerqld.org.au/checktherays/).
   
 ### Things to See and Do
 
