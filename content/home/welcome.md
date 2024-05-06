@@ -12,6 +12,12 @@ design:
 Following the success of last year's inaugural conference, QTDU2024 is back for a 2nd iteration! QTDU is a 4-day in-person conference situated in Brisbane, Australia. 
 It's an opportunity for researchers in quantum thermodynamics within Australia and our region of the globe to share our work, foster new collaborations with fellow researchers both local and international, and reinforce connections made at last year's event.
 
+We are open for abstract submissions. Click the button below or follow the link at the top of this page to see the submission form and guidelines.
+
+<!-- {{< cta cta_text="Submit Abstract" cta_link="https://qtdownunder2024.com/abstract-submissions" cta_new_tab="true" >}} -->
+
+The deadline for submissions is 11:59pm June 28th Anywhere on Earth. 
+
 We are delighted to welcome our invited speakers thus far:
 <ul>
   <li><a href="http://cat.phys.s.u-tokyo.ac.jp/index-e.html">Masahito Ueda</a>, The University of Tokyo, Japan</li>
