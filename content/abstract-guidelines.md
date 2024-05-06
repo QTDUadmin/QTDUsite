@@ -10,7 +10,7 @@ comments: false
 Please use this form to submit your abstract for consideration. The deadline for submissions is 11:59pm June 28th Anywhere on Earth. 
 When you click submit, you should see a screen confirming your submission has been received. 
 
-We will notify you of whether your abstract was successful or not as soon as possible. 
+We will notify you of whether your abstract was successful or not as soon as possible after the closing date. 
 Accepted speakers will be sent a link to register for the conference. As numbers for the conference are limited to the room capacity, it is important that speakers register as soon as possible. 
 
 Registration will then open for other attendees from July 15th. 
