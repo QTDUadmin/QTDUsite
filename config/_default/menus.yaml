@@ -10,8 +10,8 @@ main:
   - name: About
     url: 'about'
     weight: 20
-  - name: Important Dates
-    url: '#dates'
+  - name: Abstract Submission
+    url: 'abstract-guidelines'
     weight: 30
   - name: Programme
     url: '#programme'
