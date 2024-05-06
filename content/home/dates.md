@@ -16,7 +16,7 @@ Key Upcoming Dates:
 * 12th--15th Nov 2024: Conference Dates
 
 <br>
-  *As numbers are limited, registration will open after successful abstracts have been notified.
+  *As numbers are limited, general registration will open after successful abstracts have been notified.
 
 <!--Abstract submission and registration are now closed. If you submitted an abstract but have not yet received an email from us, please check your spam folder, or ensure you can receive emails from our admin address: QTDUadmin@protonmail.com If you have registered, you should have received an automatic confirmation email from the UQ payment portal.-->
 
