@@ -16,9 +16,9 @@ The conference will be held at [308 Queen Street](https://about.uq.edu.au/campus
 ### Conference Deals
 We will be adding to this list with any deals we are able to arrange up until registrations open.
 
-<!-- [Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane
+[Capri by Fraser](https://www.frasershospitality.com/en/australia/brisbane/capri-by-fraser-brisbane/), 80 Albert Street, Brisbane
 <br>800m to venue. 
-<br>Use code QTDU2023 to receive special discounts for bookings between the 5th and 12th of November 2023.-->
+<br>Use code QTDU2024 to receive a 15% discount off their Best Available Rate for bookings between the 11th and 17th of November 2024.
 
 ### Other Suggestions
 Some suggestions for a couple of different price brackets, that are close to the conference venue.
