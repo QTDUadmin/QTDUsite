@@ -9,7 +9,7 @@ design:
   background:
     #color: "#000000"
     #text_color_light: false
-#hero_media: equs_logo_inline_colour[2][2].png
+hero_media: equs_logo_inline_colour[2][2].png
 ---
 # Contact
 
@@ -17,4 +17,4 @@ design:
 
 # Sponsors
 
-QTDU2024 is kindly sponsored by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland. <!-- and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/). -->
+QTDU2024 is kindly sponsored by the [School of Mathematics and Physics](https://smp.uq.edu.au) at the University of Queensland and the Australian Research Council [Centre of Excellence for Engineered Quantum Systems (EQUS)](https://equs.org/).
