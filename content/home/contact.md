@@ -9,7 +9,8 @@ design:
   background:
     #color: "#000000"
     #text_color_light: false
-hero_media: equs_logo_inline_colour[2][2].png
+hero_media: UQlogo-Purple-rgb.svg
+#equs_logo_inline_colour[2][2].png
 ---
 # Contact
 
