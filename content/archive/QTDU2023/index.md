@@ -26,7 +26,7 @@ We look forward to seeing you in Brisbane!
 # Programme
 
 A compact form of the programme can be downloaded here:
-{{< cta cta_text="Compact Programme" cta_link="https://qtdownunder2023.com/QTDU2023programme.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Compact Programme" cta_link="QTDU2023programme.pdf" cta_new_tab="true" >}}
 
 Talk titles follow below.
 
