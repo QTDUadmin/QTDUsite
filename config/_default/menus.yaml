@@ -10,7 +10,7 @@ main:
   - name: About
     url: 'about'
     weight: 20
-  - name: Abstract Submission
+  - name: Registration
     url: 'abstract-guidelines'
     weight: 30
   - name: Programme
