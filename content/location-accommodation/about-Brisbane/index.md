@@ -29,7 +29,7 @@ You will first need to take a connecting bus, Route 760, from the Gold Coast air
 
 ### Public Transport
 
-For infomation about Brisbane's public transport networks, visit the [Translink website](https://translink.com.au/). If you are planning to use public transport while you're here, we recommend purchasing a GoCard, however technology has recently been upgraded to allow credit cards on most services.
+For infomation about Brisbane's public transport networks, visit the [Translink website](https://translink.com.au/). If you are planning to use public transport while you're here, we recommend purchasing a GoCard, however technology has recently been upgraded to allow credit cards on trains and ferries (not buses).
 
 Note that services are less frequent on weekends, particularly Sundays.
   
