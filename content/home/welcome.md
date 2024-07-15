@@ -26,10 +26,8 @@ We are delighted to welcome our invited speakers thus far:
   <li><a href="https://www.nqch.sg/researcher/jayne-thompson/">Jayne Thompson</a>, A*STAR, Singapore</li>
 </ul>
 
-Watch this space as further speakers are announced, and scroll down for upcoming important dates, and information about the location and organising committee.
+Scroll down for upcoming important dates, and information about the location and organising committee.
 
-Please visit our [About page]({{<ref "about">}}) for more information about the goals of the conference.
-
-<!-- and the [Location page]({{<ref "location-accommodation">}}) for information about the venue/Brisbane and accommodation options. The preliminary conference programme is now available [here]({{<ref "programme">}}). #Abstract submissions and registration are now closed. -->
+Please visit our [About page]({{<ref "about">}}) for more information about the goals of the conference, and the [Location page]({{<ref "location-accommodation">}}) for information about the venue/Brisbane and accommodation. <!-- The preliminary conference programme is now available [here]({{<ref "programme">}}). #Abstract submissions and registration are now closed. -->
 
 We look forward to seeing you in Brisbane!
