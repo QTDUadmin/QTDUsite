@@ -17,7 +17,7 @@ We will be open for general registration soon.
 
 <!-- {{< cta cta_text="Submit Abstract" cta_link="https://qtdownunder2024.com/abstract-guidelines" cta_new_tab="true" >}} -->
 
-We are delighted to welcome our invited speakers thus far:
+We are delighted to welcome our invited speakers:
 <ul>
   <li><a href="http://cat.phys.s.u-tokyo.ac.jp/index-e.html">Masahito Ueda</a>, The University of Tokyo, Japan</li>
   <li><a href="https://majulab.cnrs.fr/alexia-auffeves-personal-page">Alexia Auffèves</a>, CNRS International Research Lab MajuLab, France/Singapore</li>
