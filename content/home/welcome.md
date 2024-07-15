@@ -28,6 +28,6 @@ We are delighted to welcome our invited speakers thus far:
 
 Scroll down for upcoming important dates, and information about the location and organising committee.
 
-Please visit our [About page]({{<ref "about">}}) for more information about the goals of the conference, the [Location page]({{<ref "location-accommodation/about-brisbane">}}) for information about Brisbane and [Accommodation]({{<ref "location-accommodation/accommodation">}}) for accommodation deals and recommendations. <!-- The preliminary conference programme is now available [here]({{<ref "programme">}}). #Abstract submissions and registration are now closed. -->
+Please visit our [About page]({{<ref "about">}}) for more information about the goals of the conference, the [About Brisbane page]({{<ref "location-accommodation/about-brisbane">}}) for information about the location and [Accommodation]({{<ref "location-accommodation/accommodation">}}) for deals and recommendations. <!-- The preliminary conference programme is now available [here]({{<ref "programme">}}). #Abstract submissions and registration are now closed. -->
 
 We look forward to seeing you in Brisbane!
