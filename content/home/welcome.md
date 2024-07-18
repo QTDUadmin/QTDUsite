@@ -13,7 +13,7 @@ Following the success of last year's inaugural conference, QTDU2024 is back for 
 It's an opportunity for researchers in quantum thermodynamics within Australia and our region of the globe to share our work, foster new collaborations with fellow researchers both local and international, and reinforce connections made at last year's event.
 
 Abstract submissions are now closed. If you submitted an abstract we will be in contact with you in the coming days. 
-We will be open for general registration soon. 
+We are now accepting general registrations. Please go to the [Registration]({{<ref "registration">}}) page for details.
 
 <!-- {{< cta cta_text="Submit Abstract" cta_link="https://qtdownunder2024.com/abstract-guidelines" cta_new_tab="true" >}} -->
 
