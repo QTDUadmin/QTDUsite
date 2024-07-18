@@ -9,7 +9,8 @@ comments: false
 ---
 Registration is currently open, and will close on the 18th of October, or when we reach venue capacity. If you have been accepted for a talk, we encourage you to register as soon as possible to secure your place. 
 
-This year we are offering different fees for students and other attendees, as well as single-day registration. We also have a separate ticket for the conference dinner. The dinner will be held on Wednesday 13th November, at River Bar & Kitchen. 
+This year we are offering different fees for students and other attendees, as well as single-day registration. We also have a separate ticket for the conference dinner. The dinner will be held on Wednesday 13th November, at <a href="https://www.riverbarandkitchen.com.au/">River Bar & Kitchen</a>. 
+
 Click on the following button to go to the registration and payment site:
 
 {{< cta cta_text="Conference Registration" cta_link="https://payments.uq.edu.au/UQPCET101/booking?UDS_ACTION=S1I&UDS_ACTION_DATA=YFhVcEhEK3dOXCYBREJDAVdQQgxAWUUbXEZGVwFAJkEKQV1U" cta_new_tab="true" >}} 
