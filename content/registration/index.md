@@ -24,7 +24,7 @@ This year we are offering some different options for fees, as well as a separate
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Full <br></td>
+    <td class="tg-0pky">Non-student<br></td>
     <td class="tg-0pky">$140</td>
   </tr>
   <tr>
