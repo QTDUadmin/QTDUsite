@@ -8,7 +8,7 @@ active: true
 design:
   columns: "2"
 ---
-Key Upcoming Dates:
+Key Dates:
 * 7th May 2024: Abstract Submissions Open
 * 28th Jun 2024: Abstract Submissions Close
 * 15th Jul 2024: Registration Opens*
