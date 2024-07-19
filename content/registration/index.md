@@ -9,8 +9,6 @@ comments: false
 ---
 Registration is currently open, and will close on the 18th of October, or when we reach venue capacity. If you have been accepted for a talk, we encourage you to register as soon as possible to secure your place. 
 
-This year we are offering some different options for fees, as well as a separate ticket for the conference dinner. The dinner will be held on Wednesday 13th November, at <a href="https://www.riverbarandkitchen.com.au/">River Bar & Kitchen</a>. 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -45,6 +43,8 @@ This year we are offering some different options for fees, as well as a separate
   </tr>
 </tbody>
 </table>
+
+The conference dinner will be held on Wednesday 13th November, at <a href="https://www.riverbarandkitchen.com.au/">River Bar & Kitchen</a>. Please purchase a Conference Dinner ticket if you wish to attend.
 
 Click on the following button to go to the registration and payment site:
 
