@@ -11,6 +11,43 @@ Registration is currently open, and will close on the 18th of October, or when w
 
 This year we are offering some different options for fees, as well as a separate ticket for the conference dinner. The dinner will be held on Wednesday 13th November, at <a href="https://www.riverbarandkitchen.com.au/">River Bar & Kitchen</a>. 
 
+<--! <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">Fee (AUD)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Full <br></td>
+    <td class="tg-0pky">$140</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Student</td>
+    <td class="tg-0pky">$90</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Single Day (Tue, Wed, Thur)</td>
+    <td class="tg-0pky">$70</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Single Day (Fri)</td>
+    <td class="tg-0pky">$50</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Conference Dinner</td>
+    <td class="tg-0pky">$65</td>
+  </tr>
+</tbody>
+</table> -->
+
 Click on the following button to go to the registration and payment site:
 
 {{< cta cta_text="Conference Registration" cta_link="https://payments.uq.edu.au/UQPCET101/booking?UDS_ACTION=S1I&UDS_ACTION_DATA=YFhVcEhEK3dOXCYBREJDAVdQQgxAWUUbXEZGVwFAJkEKQV1U" cta_new_tab="true" >}} 
