@@ -44,7 +44,8 @@ Both versions of the programme will be updated as further details are confirmed.
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
     <td class="tg-61xu">Alexia Auffèves</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky">Closing Optical Bloch Equations in waveguide
+QED: Dynamics, Energetics</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
@@ -235,8 +236,8 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">13:30--14:30</td>
-    <td class="tg-61xu">Karen Kheruntsyan</td>
-    <td class="tg-0pky">Glauber’s second‐order correlation and quantum thermodynamics<br></td>
+    <td class="tg-61xu">Dario Poletti</td>
+    <td class="tg-0pky">TBC<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">14:30--15:00</td>
@@ -282,23 +283,23 @@ Both versions of the programme will be updated as further details are confirmed.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">9:00--9:30</td>
-    <td class="tg-0pky">Sachin Sonkar</td>
-    <td class="tg-0pky">~</td>
+    <td class="tg-0pky">9:00--10:00</td>
+    <td class="tg-61xu">Karen Kheruntsyan</td>
+    <td class="tg-0pky">Glauber’s second‐order correlation and quantum thermodynamics<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">9:30--10:00</td>
+    <td class="tg-0pky">10:00--10:30</td>
     <td class="tg-0pky">Vishnu Muraleedharan Sajitha</td>
     <td class="tg-0pky">Thermal machine regimes in the transverse‐field Ising model.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Nicole Luu</td>
-    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">10:30--11:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">Nicole Luu</td>
+    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
