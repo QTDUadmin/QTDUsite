@@ -9,8 +9,8 @@ comments: false
 ---
 To be announced.
 
-<!-- A compact form of the programme can be downloaded here:
-{{< cta cta_text="Compact Programme" cta_link="https://qtdownunder2023.com/QTDUprogramme.pdf" cta_new_tab="true" >}}
+A compact form of the programme can be downloaded here:
+{{< cta cta_text="Compact Programme" cta_link="https://qtdownunder2024.com/QTDU2024programme.pdf" cta_new_tab="true" >}}
 
 Talk titles follow below.
 
@@ -18,7 +18,7 @@ Both versions of the programme will be updated as further details are confirmed.
 
 {{< toc >}}
 
-### Tuesday, 7th November
+### Tuesday, 12th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -43,13 +43,13 @@ Both versions of the programme will be updated as further details are confirmed.
 <tbody>
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
-    <td class="tg-61xu">Thomas Busch</td>
-    <td class="tg-0pky">Making statistics work: a quantum engine in the BEC--BCS crossover</td>
+    <td class="tg-61xu">Alexia Auffèves</td>
+    <td class="tg-0pky">TBC</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Raymon Watson</td>
-    <td class="tg-0pky">An interaction driven quantum many-body heat engine enabled by atom-atom correlations</td>
+    <td class="tg-0pky">Nathan Shettel</td>
+    <td class="tg-0pky">Entropic Cost of Statistical Inference</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
@@ -58,44 +58,39 @@ Both versions of the programme will be updated as further details are confirmed.
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
     <td class="tg-0pky">Mile Gu</td>
-    <td class="tg-0pky">Quantum energetic advantage for agents responding in real-time</td>
+    <td class="tg-0pky">The Thermodynamic Cost of Misaligned Expectations and Its Consequences</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Rahul Shastri</td>
-    <td class="tg-0pky">Controlling Coherence in Finite Time Quantum Otto Cycle Through Monitoring</td>
+    <td class="tg-0pky">Kiarn Laverick</td>
+    <td class="tg-0pky">Quantum Fluctuation Theorems using Optimal State Estimation</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12:00--12:30</td>
-    <td class="tg-0pky">Lewis Williamson</td>
-    <td class="tg-0pky">Extracting work from coherence in a many-body bosonic system</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12:30--14:00</td>
+    <td class="tg-0pky">12:00--13:30</td>
     <td class="tg-5w3z" colspan="2">Lunch</td>
   </tr>
+    <tr>
+    <td class="tg-0pky">13:30--14:30</td>
+    <td class="tg-0pky">Federico Cerisola</td>
+    <td class="tg-0pky">Exploring nanoscale thermodynamics on suspended carbon nanotubes</td>
+  </tr>
   <tr>
-    <td class="tg-0pky">14:00--15:00</td>
-    <td class="tg-61xu">Varinder Singh</td>
-    <td class="tg-0pky">Thermodynamic uncertainty relation in degenerate and nondegenerate maser heat engines</td>
+    <td class="tg-0pky">14:30--15:00</td>
+    <td class="tg-61xu">William McEniery</td>
+    <td class="tg-0pky">Thermally induced correlations in gas of spin‐half quantum particles bathed in thermal light</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-5w3z" colspan="2">Smoko</td>
+    <td class="tg-0pky">Sahil</td>
+    <td class="tg-0pky">Post‐Markovian master equation via microscopic collisional model</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
-    <td class="tg-0pky">Laraib Niaz (online)</td>
-    <td class="tg-0pky">A non-traditional quantum heat engine based on electromagnetically induced transparency</td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
-    <td class="tg-0pky">16:00--16:30</td>
-    <td class="tg-0pky">Rose Manakil</td>
-    <td class="tg-0pky">Spectroscopy to observe Maxwell’s Demon</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">16:30--17:00</td>
-    <td class="tg-pidv" colspan="2">Discussion Panel</td>
+    <td class="tg-0pky">16:00--17:30</td>
+    <td class="tg-pidv" colspan="2">Discussion Time</td>
   </tr>
 </tbody>
 </table>
@@ -103,7 +98,7 @@ Both versions of the programme will be updated as further details are confirmed.
 
 <br>
 
-### Wednesday, 8th November
+### Wednesday, 13th November
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -125,13 +120,13 @@ Both versions of the programme will be updated as further details are confirmed.
 <tbody>
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
-    <td class="tg-61xu">Janet Anders</td>
-    <td class="tg-0pky">Strong coupling and coherence in quantum thermodynamics</td>
+    <td class="tg-61xu">Masahito Ueda</td>
+    <td class="tg-0pky">Roles of locality and range of interactions on quantum thermalization</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Nicole Yunger Halpern (online)</td>
-    <td class="tg-0pky">What happens to entropy production when conserved quantities fail to commute</td>
+    <td class="tg-0pky">Matthew Davis</td>
+    <td class="tg-0pky">Thermalisation of a Spin‐1 Bose Gas in a Double‐Well</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
@@ -139,52 +134,54 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">Gabriella Gonçalves Damas (online)</td>
-    <td class="tg-0pky">Optimizing Three-Qubit Quantum Refrigeration with Fermionic Thermal Baths</td>
+    <td class="tg-0pky">Lewis Williamson</td>
+    <td class="tg-0pky">Work distributions from pure states in quantum spin chains</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Mohamed Boubakour</td>
-    <td class="tg-0pky">Dynamical Invariant based Shortcut to Thermalization</td>
+    <td class="tg-0pky">David Strachan</td>
+    <td class="tg-0pky">Non‐Markovian Quantum Mpemba Effect</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12:00--12:30</td>
-    <td class="tg-0pky">Kavan Modi</td>
-    <td class="tg-0pky">Multitime detailed balance</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12:30--14:00</td>
+    <td class="tg-0pky">12:00--13:30</td>
     <td class="tg-5w3z" colspan="2">Lunch</td>
   </tr>
+    <tr>
+    <td class="tg-0pky">13:30--14:30</td>
+    <td class="tg-0pky">Jayne Thompson</td>
+    <td class="tg-0pky">TBC</td>
+  </tr>
   <tr>
-    <td class="tg-0pky">14:00--15:00</td>
-    <td class="tg-61xu">Gerard Milburn</td>
-    <td class="tg-0pky">The thermodynamics of learning machines</td>
+    <td class="tg-0pky">14:30--15:00</td>
+    <td class="tg-61xu">Cassandra Bowie</td>
+    <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
+    <td class="tg-0pky">Arnab Mukherjee</td>
+    <td class="tg-0pky">Enhancement in the performance of a Unruh‐DeWitt battery through velocity tuning</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">15:30--16:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
-    <td class="tg-0pky">15:30--16:00</td>
-    <td class="tg-0pky">Carolyn Wood</td>
-    <td class="tg-0pky">Operational models of temperature superpositions</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">16:00--16:30</td>
-    <td class="tg-0pky">Joshua Foo</td>
-    <td class="tg-0pky">Superpositions of thermalisation states in relativistic quantum field theory</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">16:30--17:00</td>
-    <td class="tg-pidv" colspan="2">Discussion Panel</td>
+    <td class="tg-pidv" colspan="2">Discussion Time</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">18:00--22:00</td>
+    <td class="tg-8xib" colspan="2">Conference Dinner</td>
   </tr>
 </tbody>
 </table>
 
 <br>
 
-### Thursday, 9th of November
+### Thursday, 14th of November
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -209,74 +206,62 @@ Both versions of the programme will be updated as further details are confirmed.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">9:00--9:30</td>
-    <td class="tg-c6of">Eric He<br></td>
-    <td class="tg-0pky">Quantum clock precision studied with a superconducting circuit<br></td>
+    <td class="tg-0pky">9:00--10:00</td>
+    <td class="tg-c6of">James Quach<br></td>
+    <td class="tg-0pky">Quantum batteries – from information to energy<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">9:30--10:00</td>
-    <td class="tg-0pky">Stefan Zeppetzauer</td>
-    <td class="tg-0pky">Implementation of a periodic quantum clock based on coherent feedback</td>
+    <td class="tg-0pky">10:00--10:30</td>
+    <td class="tg-0pky">Josephine Dias</td>
+    <td class="tg-0pky">Strategies for charging open quantum batteries</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10:00--11:00</td>
-    <td class="tg-61xu">Nicole Yunger Halpern (online)</td>
-    <td class="tg-0pky">Quantum Steampunk</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">10:30--11:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-61xu">Federico Centrone</td>
+    <td class="tg-0pky">Non‐gaussianity for optimal quantum battery performance</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Thomás Fogarty</td>
-    <td class="tg-0pky">Enhancing many-body quantum batteries through symmetrization</td>
+    <td class="tg-0pky">Jesse Slim</td>
+    <td class="tg-0pky">Chiral thermal transport induced by optomechanically‐mediated synthetic magnetism</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12:00--12:30</td>
-    <td class="tg-0pky">Christopher Baker</td>
-    <td class="tg-0pky">An optomechanical heat engine based on the superfluid fountain effect<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12:30--14:00</td>
+    <td class="tg-0pky">12:00--13:30</td>
     <td class="tg-5w3z" colspan="2">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-0pky">14:00--15:00</td>
-    <td class="tg-61xu">Michael Jack</td>
-    <td class="tg-0pky">Molecular motors: Non-equilibrium statistical mechanics of molecular-scale energy conversion<br></td>
+    <td class="tg-0pky">13:30--14:30</td>
+    <td class="tg-61xu">Karen Kheruntsyan</td>
+    <td class="tg-0pky">Glauber’s second‐order correlation and quantum thermodynamics<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:30--15:00</td>
+    <td class="tg-0pky">Liam McClelland</td>
+    <td class="tg-0pky">A proof‐of‐concept memory powered heat engine with trapped Yb+ ions<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-5w3z" colspan="2">Smoko</td>
+    <td class="tg-0pky">Rose Manakil</td>
+    <td class="tg-0pky">Information Erasure with Spin‐polarised atoms</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
-    <td class="tg-0pky">Konstantina Koteva</td>
-    <td class="tg-0pky">Optimization and Comparison of Energetic Performance for Silicon Spin Qubit Quantum Devices</td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
-    <td class="tg-0pky">16:00--16:30</td>
-    <td class="tg-0pky">Ruo Cheng Huang</td>
-    <td class="tg-0pky">Engines for predictive work extraction from memoryful quantum stochastic processes</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">16:30--17:00</td>
-    <td class="tg-pidv" colspan="2">Discussion Panel</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="3"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">18:00--22:00</td>
-    <td class="tg-8xib" colspan="2">Conference Dinner</td>
+    <td class="tg-0pky">16:30--17:30</td>
+    <td class="tg-pidv" colspan="2">Poster Session</td>
   </tr>
 </tbody>
 </table>
 
 <br>
 
-### Friday, 10th of November
+### Friday, 15th of November
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -298,18 +283,18 @@ Both versions of the programme will be updated as further details are confirmed.
 <tbody>
   <tr>
     <td class="tg-0pky">9:00--9:30</td>
-    <td class="tg-0pky">Vijit Nautiyal</td>
-    <td class="tg-0pky">A finite-time quantum Otto cycle driven by atomic interactions</td>
+    <td class="tg-0pky">Sachin Sonkar</td>
+    <td class="tg-0pky">~</td>
   </tr>
   <tr>
     <td class="tg-0pky">9:30--10:00</td>
-    <td class="tg-0pky">Liam McClelland</td>
-    <td class="tg-0pky">A quantum spin heat engine with trapped Yb+ ions</td>
+    <td class="tg-0pky">Vishnu Muraleedharan Sajitha</td>
+    <td class="tg-0pky">Thermal machine regimes in the transverse‐field Ising model.</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Matthew Davis</td>
-    <td class="tg-0pky">Thermalisation and many-body localisation in a two-dimensional lattice of ultracold polar molecules with disordered filling</td>
+    <td class="tg-0pky">Nicole Luu</td>
+    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
@@ -317,16 +302,11 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">Neil Dowling</td>
-    <td class="tg-0pky">Quantum Chaos, Scrambling, and (Operator) Entanglement</td>
+    <td class="tg-0pky">Raymon Watson</td>
+    <td class="tg-0pky">A nonequilibrium quantum Otto cycle fuelled by chemical work</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Tyler Neely</td>
-    <td class="tg-0pky">Point vortex thermodynamics realised in Bose-Einstein condensates</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12:00--12:30</td>
     <td class="tg-0pky" colspan="2">Wrap Up &amp; Close</td>
   </tr>
   <tr>
@@ -334,4 +314,4 @@ Both versions of the programme will be updated as further details are confirmed.
     <td class="tg-hafo" colspan="2">Social Activity (TBD)</td>
   </tr>
 </tbody>
-</table> -->
+</table>
