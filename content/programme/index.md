@@ -150,7 +150,7 @@ QED: Dynamics, Energetics</td>
     <tr>
     <td class="tg-0pky">13:30--14:30</td>
     <td class="tg-0pky">Jayne Thompson</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky">Scaling advantages for quantum thermodynamic advantage in agents</td>
   </tr>
   <tr>
     <td class="tg-0pky">14:30--15:00</td>
