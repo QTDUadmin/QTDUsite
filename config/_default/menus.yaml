@@ -14,7 +14,7 @@ main:
     url: 'registration'
     weight: 30
   - name: Programme
-    url: '#programme'
+    url: 'programme'
     weight: 40
   - name: Location & Accommodation
     identifier: location-accommodation
