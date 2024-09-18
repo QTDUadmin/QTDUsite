@@ -33,11 +33,11 @@ Both versions of the programme will be updated as further details are confirmed.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">8:00--8:50</th>
+    <th class="tg-0pky">8:00--8:45</th>
     <th class="tg-0pky" colspan="2" rowspan="2">Registration<br><br>Opening &amp; Welcome</th>
   </tr>
   <tr>
-    <th class="tg-0pky">8:50--9:00</th>
+    <th class="tg-0pky">8:45--9:00</th>
   </tr>
 </thead>
 <tbody>
@@ -167,7 +167,7 @@ QED: Dynamics, Energetics</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
-    <td class="tg-0pky">16:30--17:00</td>
+    <td class="tg-0pky">16:00--17:30</td>
     <td class="tg-pidv" colspan="2">Discussion Time</td>
   </tr>
   <tr>
@@ -221,12 +221,12 @@ QED: Dynamics, Energetics</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
     <tr>
-    <td class="tg-0pky">14:30--15:00</td>
+    <td class="tg-0pky">11:00--11:30</td>
     <td class="tg-61xu">Cassandra Bowie</td>
     <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
   </tr>
   <tr>
-    <td class="tg-0pky">15:00--15:30</td>
+    <td class="tg-0pky">11:30--12:00</td>
     <td class="tg-0pky">Arnab Mukherjee</td>
     <td class="tg-0pky">Enhancement in the performance of a Unruh‐DeWitt battery through velocity tuning</td>
   </tr>
@@ -240,12 +240,12 @@ QED: Dynamics, Energetics</td>
     <td class="tg-0pky">TBC<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">14:30--15:00</td>
     <td class="tg-0pky">Nicole Luu</td>
     <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:30--12:00</td>
+    <td class="tg-0pky">15:00--15:30</td>
     <td class="tg-0pky">Jesse Slim</td>
     <td class="tg-0pky">Chiral thermal transport induced by optomechanically‐mediated synthetic magnetism</td>
   </tr>
@@ -255,7 +255,7 @@ QED: Dynamics, Energetics</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
-    <td class="tg-0pky">16:30--17:30</td>
+    <td class="tg-0pky">16:00--17:30</td>
     <td class="tg-pidv" colspan="2">Poster Session</td>
   </tr>
 </tbody>
