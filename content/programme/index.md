@@ -74,12 +74,7 @@ QED: Dynamics, Energetics</td>
     <td class="tg-0pky">13:30--14:30</td>
     <td class="tg-0pky">Federico Cerisola</td>
     <td class="tg-0pky">Exploring nanoscale thermodynamics on suspended carbon nanotubes</td>
-  </tr>
-
-  <tr>
-    <td class="tg-0pky">15:30--16:00</td>
-    <td class="tg-5w3z" colspan="2">Smoko</td>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-0pky">14:30--15:00</td>
     <td class="tg-0pky">Liam McClelland</td>
@@ -89,6 +84,10 @@ QED: Dynamics, Energetics</td>
     <td class="tg-0pky">15:00--15:30</td>
     <td class="tg-0pky">Rose Manakil</td>
     <td class="tg-0pky">Information Erasure with Spin‐polarised atoms</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:30--16:00</td>
+    <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
   <tr>
     <td class="tg-0pky">16:00--17:30</td>
