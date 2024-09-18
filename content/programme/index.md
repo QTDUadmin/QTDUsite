@@ -7,8 +7,6 @@ profile: false
 comments: false
  
 ---
-To be announced.
-
 A compact form of the programme can be downloaded here:
 {{< cta cta_text="Compact Programme" cta_link="https://qtdownunder2024.com/QTDU2024programme.pdf" cta_new_tab="true" >}}
 
