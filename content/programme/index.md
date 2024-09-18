@@ -206,7 +206,7 @@ QED: Dynamics, Energetics</td>
 <tbody>
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
-    <td class="tg-c6of">James Quach<br></td>
+    <td class="tg-61xu">James Quach<br></td>
     <td class="tg-0pky">Quantum batteries – from information to energy<br></td>
   </tr>
   <tr>
@@ -220,7 +220,7 @@ QED: Dynamics, Energetics</td>
   </tr>
     <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-61xu">Cassandra Bowie</td>
+    <td class="tg-0pky">Cassandra Bowie</td>
     <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
   </tr>
   <tr>
