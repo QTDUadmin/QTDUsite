@@ -70,7 +70,7 @@ QED: Dynamics, Energetics</td>
   </tr>
     <tr>
     <td class="tg-0pky">13:30--14:30</td>
-    <td class="tg-0pky">Federico Cerisola</td>
+    <td class="tg-61xu">Federico Cerisola</td>
     <td class="tg-0pky">Exploring nanoscale thermodynamics on suspended carbon nanotubes</td>
     </tr>
   <tr>
@@ -147,7 +147,7 @@ QED: Dynamics, Energetics</td>
   </tr>
     <tr>
     <td class="tg-0pky">13:30--14:30</td>
-    <td class="tg-0pky">Jayne Thompson</td>
+    <td class="tg-61xu">Jayne Thompson</td>
     <td class="tg-0pky">Scaling advantages for quantum thermodynamic advantage in agents</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ QED: Dynamics, Energetics</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-61xu">William McEniery</td>
+    <td class="tg-0pky">William McEniery</td>
     <td class="tg-0pky">Thermally induced correlations in gas of spin‐half quantum particles bathed in thermal light</td>
   </tr>
     <tr>
