@@ -75,19 +75,20 @@ QED: Dynamics, Energetics</td>
     <td class="tg-0pky">Federico Cerisola</td>
     <td class="tg-0pky">Exploring nanoscale thermodynamics on suspended carbon nanotubes</td>
   </tr>
-  <tr>
-    <td class="tg-0pky">14:30--15:00</td>
-    <td class="tg-61xu">William McEniery</td>
-    <td class="tg-0pky">Thermally induced correlations in gas of spin‐half quantum particles bathed in thermal light</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-0pky">Sahil</td>
-    <td class="tg-0pky">Post‐Markovian master equation via microscopic collisional model</td>
-  </tr>
+
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:30--15:00</td>
+    <td class="tg-0pky">Liam McClelland</td>
+    <td class="tg-0pky">A proof‐of‐concept memory powered heat engine with trapped Yb+ ions<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:00--15:30</td>
+    <td class="tg-0pky">Rose Manakil</td>
+    <td class="tg-0pky">Information Erasure with Spin‐polarised atoms</td>
   </tr>
   <tr>
     <td class="tg-0pky">16:00--17:30</td>
@@ -154,13 +155,13 @@ QED: Dynamics, Energetics</td>
   </tr>
   <tr>
     <td class="tg-0pky">14:30--15:00</td>
-    <td class="tg-61xu">Cassandra Bowie</td>
-    <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
+    <td class="tg-0pky">Sahil</td>
+    <td class="tg-0pky">Post‐Markovian master equation via microscopic collisional model</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-0pky">Arnab Mukherjee</td>
-    <td class="tg-0pky">Enhancement in the performance of a Unruh‐DeWitt battery through velocity tuning</td>
+    <td class="tg-61xu">William McEniery</td>
+    <td class="tg-0pky">Thermally induced correlations in gas of spin‐half quantum particles bathed in thermal light</td>
   </tr>
     <tr>
     <td class="tg-0pky">15:30--16:00</td>
@@ -221,14 +222,14 @@ QED: Dynamics, Energetics</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
     <tr>
-    <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-61xu">Federico Centrone</td>
-    <td class="tg-0pky">Non‐gaussianity for optimal quantum battery performance</td>
+    <td class="tg-0pky">14:30--15:00</td>
+    <td class="tg-61xu">Cassandra Bowie</td>
+    <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Jesse Slim</td>
-    <td class="tg-0pky">Chiral thermal transport induced by optomechanically‐mediated synthetic magnetism</td>
+    <td class="tg-0pky">15:00--15:30</td>
+    <td class="tg-0pky">Arnab Mukherjee</td>
+    <td class="tg-0pky">Enhancement in the performance of a Unruh‐DeWitt battery through velocity tuning</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:00--13:30</td>
@@ -240,15 +241,16 @@ QED: Dynamics, Energetics</td>
     <td class="tg-0pky">TBC<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14:30--15:00</td>
-    <td class="tg-0pky">Liam McClelland</td>
-    <td class="tg-0pky">A proof‐of‐concept memory powered heat engine with trapped Yb+ ions<br></td>
+    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">Nicole Luu</td>
+    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
   </tr>
   <tr>
-    <td class="tg-0pky">15:00--15:30</td>
-    <td class="tg-0pky">Rose Manakil</td>
-    <td class="tg-0pky">Information Erasure with Spin‐polarised atoms</td>
+    <td class="tg-0pky">11:30--12:00</td>
+    <td class="tg-0pky">Jesse Slim</td>
+    <td class="tg-0pky">Chiral thermal transport induced by optomechanically‐mediated synthetic magnetism</td>
   </tr>
+  
   <tr>
     <td class="tg-0pky">15:30--16:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
@@ -298,20 +300,20 @@ QED: Dynamics, Energetics</td>
   </tr>
     <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">Nicole Luu</td>
-    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
+    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky">TBC</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:00--11:30</td>
+    <td class="tg-0pky">11:30--12:00</td>
     <td class="tg-0pky">Raymon Watson</td>
     <td class="tg-0pky">A nonequilibrium quantum Otto cycle fuelled by chemical work</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:30--12:00</td>
+    <td class="tg-0pky">12:00--12:30</td>
     <td class="tg-0pky" colspan="2">Wrap Up &amp; Close</td>
   </tr>
   <tr>
-    <td class="tg-0pky">13:00--</td>
+    <td class="tg-0pky">12:30--</td>
     <td class="tg-hafo" colspan="2">Social Activity (TBD)</td>
   </tr>
 </tbody>
