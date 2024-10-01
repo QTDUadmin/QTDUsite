@@ -134,7 +134,7 @@ QED: Dynamics, Energetics</td>
   <tr>
     <td class="tg-0pky">11:00--11:30</td>
     <td class="tg-0pky">Lewis Williamson</td>
-    <td class="tg-0pky">Work distributions from pure states in quantum spin chains</td>
+    <td class="tg-0pky">The Jarzysnki equality in a microcanonical ensemble and connections with the Eigenstate Thermalization Hypothesis</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
