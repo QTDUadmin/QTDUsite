@@ -235,7 +235,7 @@ QED: Dynamics, Energetics</td>
   <tr>
     <td class="tg-0pky">13:30--14:30</td>
     <td class="tg-61xu">Dario Poletti</td>
-    <td class="tg-0pky">TBC<br></td>
+    <td class="tg-0pky">Many-body quantum systems out of equilibrium: relaxation and emergence of steady states<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">14:30--15:00</td>
