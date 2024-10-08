@@ -119,27 +119,27 @@ QED: Dynamics, Energetics</td>
 <tbody>
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
-    <td class="tg-61xu">Masahito Ueda</td>
-    <td class="tg-0pky">Roles of locality and range of interactions on quantum thermalization</td>
+    <td class="tg-61xu">James Quach<br></td>
+    <td class="tg-0pky">Quantum batteries – from information to energy<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Matthew Davis</td>
-    <td class="tg-0pky">Thermalisation of a Spin‐1 Bose Gas in a Double‐Well</td>
+    <td class="tg-0pky">Josephine Dias</td>
+    <td class="tg-0pky">Strategies for charging open quantum batteries</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
-  <tr>
+    <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">Lewis Williamson</td>
-    <td class="tg-0pky">The Jarzynski equality in a microcanonical ensemble and connections with the Eigenstate Thermalization Hypothesis</td>
+    <td class="tg-0pky">Arnab Mukherjee</td>
+    <td class="tg-0pky">Enhancement in the performance of a Unruh‐DeWitt battery through velocity tuning</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">David Strachan</td>
-    <td class="tg-0pky">Non‐Markovian Quantum Mpemba Effect</td>
+    <td class="tg-0pky">Cassandra Bowie</td>
+    <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:00--13:30</td>
@@ -206,27 +206,27 @@ QED: Dynamics, Energetics</td>
 <tbody>
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
-    <td class="tg-61xu">James Quach<br></td>
-    <td class="tg-0pky">Quantum batteries – from information to energy<br></td>
+    <td class="tg-61xu">Masahito Ueda</td>
+    <td class="tg-0pky">Roles of locality and range of interactions on quantum thermalization</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Josephine Dias</td>
-    <td class="tg-0pky">Strategies for charging open quantum batteries</td>
+    <td class="tg-0pky">Matthew Davis</td>
+    <td class="tg-0pky">Thermalisation of a Spin‐1 Bose Gas in a Double‐Well</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30--11:00</td>
     <td class="tg-5w3z" colspan="2">Smoko</td>
   </tr>
-    <tr>
+  <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">Cassandra Bowie</td>
-    <td class="tg-0pky">The Quantum Tolman‐Ehrenfest effect</td>
+    <td class="tg-0pky">Lewis Williamson</td>
+    <td class="tg-0pky">The Jarzynski equality in a microcanonical ensemble and connections with the Eigenstate Thermalization Hypothesis</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
-    <td class="tg-0pky">Arnab Mukherjee</td>
-    <td class="tg-0pky">Enhancement in the performance of a Unruh‐DeWitt battery through velocity tuning</td>
+    <td class="tg-0pky">David Strachan</td>
+    <td class="tg-0pky">Non‐Markovian Quantum Mpemba Effect</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:00--13:30</td>
@@ -239,8 +239,8 @@ QED: Dynamics, Energetics</td>
   </tr>
   <tr>
     <td class="tg-0pky">14:30--15:00</td>
-    <td class="tg-0pky">Nicole Luu</td>
-    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
+    <td class="tg-0pky">Stephen Sanderson</td>
+    <td class="tg-0pky">Machine learning a time-local fluctuation theorem for classical nonequilibrium steady states</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:00--15:30</td>
@@ -297,8 +297,8 @@ QED: Dynamics, Energetics</td>
   </tr>
     <tr>
     <td class="tg-0pky">11:00--11:30</td>
-    <td class="tg-0pky">TBC</td>
-    <td class="tg-0pky">TBC</td>
+    <td class="tg-0pky">Nicole Luu</td>
+    <td class="tg-0pky">Thermodynamic driving of superfluid helium thin films</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:30--12:00</td>
