@@ -13,12 +13,12 @@ On this page you will find directions, and information about Brisbane.
 ## Directions
 The conference will be held at [308 Queen Street](https://about.uq.edu.au/campuses-facilities/brisbane-city/308-queen-st), in Brisbane's city centre. The venue is within walking distance of Central train station, Riverside ferry terminal, and the main bus route hubs for Brisbane: Queen Street and King George Square**. 
 
-**Note: There is some ongoing construction in the city centre at this time. Please refer to the [Translink website](https://translink.com.au/) for up-to-date information.
+**Note: There is some ongoing construction in the city centre at this time causing stop locations to change. Please refer to the [Translink website](https://translink.com.au/) for up-to-date information.
 
 ### Brisbane airport to city centre
-Brisbane's international and domestic airports are directly connected to the city centre by train. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $20 one way. Central is the train station closest to the conference venue, and the journey takes about half an hour.
+Brisbane's international and domestic airports are directly connected to the city centre by train. When departing the airport, look for signs pointing to the AirTrain station. Trains depart approximately every 20min, and tickets cost around $10 one way. Central is the train station closest to the conference venue, and the journey takes about half an hour.
 
-We recommend checking AirTrain times on the [Translink website](https://translink.com.au/) in case you'd like to consider this when booking flights. Otherwise, there are taxi ranks at both airports, and rideshare services.
+We recommend checking AirTrain times on the [Translink website](https://translink.com.au/) in case you'd like to consider this when booking flights. Otherwise, there are taxi ranks at both airports, and rideshare services available.
 
 ### Gold Coast airport to city centre
 You will first need to take a connecting bus, Route 760, from the Gold Coast airport to Varsity Lakes train station, then take the Airport line train to Brisbane. Central is the train station closest to the conference venue. Note that this journey takes about 2 hours.
@@ -32,6 +32,8 @@ You will first need to take a connecting bus, Route 760, from the Gold Coast air
 For infomation about Brisbane's public transport networks, visit the [Translink website](https://translink.com.au/). If you are planning to use public transport while you're here, we recommend purchasing a GoCard, however technology has recently been upgraded to allow credit cards on trains and ferries (not buses).
 
 Note that services are less frequent on weekends, particularly Sundays.
+
+Fares in Queensland are currently 50 cents per trip, regardless of distance (except for the AirTrain, as mentioned above).
   
 ### Climate
 
