@@ -42,8 +42,7 @@ Both versions of the programme will be updated as further details are confirmed.
   <tr>
     <td class="tg-0pky">9:00--10:00</td>
     <td class="tg-61xu">Alexia Auffèves</td>
-    <td class="tg-0pky">Closing Optical Bloch Equations in waveguide
-QED: Dynamics, Energetics</td>
+    <td class="tg-0pky">Quantum energetics: foundations, applications, and back</td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
