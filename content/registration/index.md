@@ -7,7 +7,7 @@ profile: false
 comments: false
  
 ---
-Registration is currently open, and will close on the 18th of October, or when we reach venue capacity. If you have been accepted for a talk, we encourage you to register as soon as possible to secure your place. 
+Registration is now closed. <!-- currently open, and will close on the 18th of October, or when we reach venue capacity. If you have been accepted for a talk, we encourage you to register as soon as possible to secure your place. -->
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -46,8 +46,7 @@ Registration is currently open, and will close on the 18th of October, or when w
 
 **The conference dinner will be held on Wednesday 13th November, at <a href="https://www.riverbarandkitchen.com.au/">River Bar & Kitchen</a>. Please purchase a Conference Dinner ticket if you wish to attend, as well as additional Dinner tickets for any plus ones. Children are also welcome to join, at no cost.
 
-Click on the following button to go to the registration and payment site:
-
-{{< cta cta_text="Conference Registration" cta_link="https://payments.uq.edu.au/UQPCET101/booking?UDS_ACTION=S1I&UDS_ACTION_DATA=YFhVcEhEK3dOXCYBREJDAVdQQgxAWUUbXEZGVwFAJkEKQV1U" cta_new_tab="true" >}} 
+<!-- Click on the following button to go to the registration and payment site:
+{{< cta cta_text="Conference Registration" cta_link="https://payments.uq.edu.au/UQPCET101/booking?UDS_ACTION=S1I&UDS_ACTION_DATA=YFhVcEhEK3dOXCYBREJDAVdQQgxAWUUbXEZGVwFAJkEKQV1U" cta_new_tab="true" >}} -->
 
 Once you have registered, you should have received a confirmation email. Please don't hesitate to contact us at the conference email address ("Contact" at the top right of the page) if you have any enquiries.
