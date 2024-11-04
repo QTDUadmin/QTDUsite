@@ -253,7 +253,7 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">16:00--17:30</td>
-    <td class="tg-pidv" colspan="2">Poster Session</td>
+    <td class="tg-pidv" colspan="2">Discussion Time</td>
   </tr>
 </tbody>
 </table>
