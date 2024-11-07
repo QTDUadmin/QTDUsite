@@ -46,7 +46,7 @@ Both versions of the programme will be updated as further details are confirmed.
   </tr>
   <tr>
     <td class="tg-0pky">10:00--10:30</td>
-    <td class="tg-0pky">Nathan Shettel</td>
+    <td class="tg-0pky">Nathan Shettell</td>
     <td class="tg-0pky">Entropic Cost of Statistical Inference</td>
   </tr>
   <tr>
